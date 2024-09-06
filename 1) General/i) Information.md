@@ -13,28 +13,28 @@ From the limitless funds that Raven Manufacturing had gained, it had expanded it
 The Founder is the creator and owner of the Corvus Technologies group and game, and has the highest authority.
 
 ### Board of Directors
-The Board of Directors is comprised of the Directors of each department within the group. Directors have the highest administrative authority over company personnel in general, second only to the Founder. Directors additionaly have full authority over administrative matters within the department they direct. However, Directors are not the 1st-in-command over departmental operations, as said duty is left to Clearance-O personnel.
+The BoD is comprised of the Directors of each department within the group. Directors have the highest administrative authority over company personnel in general, second only to the Founder. Directors additionaly have full authority over administrative matters within the department they direct. However, Directors are not the 1st-in-command over departmental operations, as said duty is left to C-O personnel.
 
 ### Clearance-O
-Clearance-O personnel are the 1sts-in-command of all departmental operations within their respective department. 
+C-O personnel are the 1sts-in-command of all departmental operations within their respective department. 
 
 ### Clearance-A
-Clearance-A personnel are the 2nds-in-command of all departmental operations within their respective department. 
+C-A personnel are the 2nds-in-command of all departmental operations within their respective department. 
 
 ### Clearance-4
-Clearance-4 personnel are the heads of departmental Medium Command.
+C-4 personnel are the heads of departmental Medium Command.
 
 ### Clearance-3
-Clearance-3 personnel are the main members of their department's Medium Command.
+C-3 personnel are the main members of their department's Medium Command.
 
 ### Clearance-2
-Clearance-2 personnel are standard company personnel that have passed probation and make up the main workforce of the company.
+C-2 personnel are standard company personnel that have passed probation and make up the main workforce of the company.
 
 ### Clearance-1
-Clearance-1 personnel are employees that have recently passed the entry phase of departments, and are put on probation. Personnel begin conducting departmental duties at this rank.
+C-1 personnel are employees that have recently passed the entry phase of departments, and are put on probation. Personnel begin conducting departmental duties at this rank.
 
 ### Intern
 Interns are fresh members of the company and have the ability of applying to and joining departments.
 
 ### Test Subject
-Test Subjects are usually former convicts who have volunteered as human subjects for the company's experiments in exchange for obtaining pardon. 
+TS are usually former convicts who have volunteered as human subjects for the company's experiments in exchange for earning pardon. 
