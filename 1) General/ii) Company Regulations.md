@@ -21,7 +21,7 @@
 1) **Maturity and Professionalism:**
 * a) All employees must be mature and professional while conducting their duties.
 
-### Section 3: Test Subject Regulations:**
+### Section 3: Test Subject Regulations:
 > The following section contains regulations that apply to Test Subjects.
 > Test Subjects who violate these regulations will not be subject to legislative punishent unless stated otherwise.
 
