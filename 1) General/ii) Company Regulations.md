@@ -19,3 +19,14 @@
 > The following section contains regulations that apply to company employees, meaning individuals ranked "Intern" or above within the main group.
 
 1) **Maturity and Professionalism:**
+* a) All employees must be mature and professional while conducting their duties.
+
+### Section 3: Test Subject Regulations:**
+> The following section contains regulations that apply to Test Subjects.
+> Test Subjects who violate these regulations will not be subject to legislative punishent unless stated otherwise.
+
+1) **Trespassing:**
+* a) TS may not enter areas designated to be restricted without proper clearance or authorisation.
+  * i) TS in violation of this rule are to be terminated immediately.
+* b) TS may not cross the line between the Test Subject Containment waiting area and Test Subject Transfer Gate.
+  * i) TS in violation of this rule are to be terminated immediately. TS who touch or pass the line on accident are to be given 1 warning, then terminated if they repeat their action.
