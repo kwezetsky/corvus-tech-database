@@ -1,7 +1,7 @@
 # Company Regulations
 
 ### Section 1: General Regulations
-> The following section contains regulations that apply to all players, including individuals ranked "Test Subject" within the main group and individuals not within the group.
+> The following section contains regulations that apply to all players, including individuals in the group ranked from "Test Subject" up to the Founder, as well as individuals not within the group.
 
 1) **Platform Terms of Service:**
 * a) Whilst on the ROBLOX platform, players must abide by the ROBLOX Terms of Service.
