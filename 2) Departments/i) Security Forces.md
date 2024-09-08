@@ -22,48 +22,51 @@
 ### [Intern] Security Trainee
 
 ## Divisions
+SF has 3 different divisions that each specialise in a particular duty. Security Junior Guards and above may join a division. Each member of SF may only be in 1 division at a time.
 
-### Asset Containment Division
+## Asset Containment Division
 
-#### Information
+### Information
+The Asset Containment Division has the duty of keeping our anomalous assets contained and managed, as well as monitoring our prehistoric assets.
 
-#### Ranking Structure
-**[SCpt] ACD Captain**
+### Ranking Structure
+#### **[SCpt] ACD Captain**
+The ACD Captain is the leader of the Asset Containment Division and is the 1st-in-command of all ACD operations.
 
-**[SSup] ACD Supervisor**
+#### **[SSup] ACD Supervisor**
 
-**[SSrG] ACD Sergeant**
+#### **[SSrG] ACD Sergeant**
 
-**[SG] ACD Operative**
+#### **[SG] ACD Operative**
 
-**[SJrG] ACD Trainee**
+#### **[SJrG] ACD Trainee**
 
-### Combat Medics Division
+## Combat Medics Division
 
-#### Information
+### Information
 
-#### Ranking Structure
-**[SCpt] CMD Captain**
+### Ranking Structure
+#### **[SCpt] CMD Captain**
 
-**[SSup] CMD Supervisor**
+#### **[SSup] CMD Supervisor**
 
-**[SSrG] CMD Coordinator**
+#### **[SSrG] CMD Coordinator**
 
-**[SG] CMD Agent**
+#### **[SG] CMD Agent**
 
-**[SJrG] CND Trainee**
+#### **[SJrG] CND Trainee**
 
-### Armoured Vehicles Division
+## Armoured Vehicles Division
 
-#### Information
+### Information
 
-#### Ranking Structure
-**[SCpt] AVD Captain**
+### Ranking Structure
+#### **[SCpt] AVD Captain**
 
-**[SSup] AVD Supervisor**
+#### **[SSup] AVD Supervisor**
 
-**[SSrG] AVD Specialist**
+#### **[SSrG] AVD Specialist**
 
-**[SG] AVD Operator**
+#### **[SG] AVD Operator**
 
-**[SJrG] AVD Trainee**
+#### **[SJrG] AVD Trainee**
