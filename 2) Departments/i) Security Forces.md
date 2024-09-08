@@ -1,25 +1,25 @@
 # Security Forces
 
-### Information
+## Information
 
-### Ranking Structure
-#### Security Overseer
+## Ranking Structure
+### Security Overseer
 
-#### Security Commander
+### Security Commander
 
-#### Security Captain
+### Security Captain
 
-#### Security Supervisor
+### Security Supervisor
 
-#### Security Senior Guard
+### Security Senior Guard
 
-#### Security Guard
+### Security Guard
 
-#### Security Junior Guard
+### Security Junior Guard
 
-#### Security Cadet
+### Security Cadet
 
-#### Security Trainee
+### Security Trainee
 
 ## Divisions
 
