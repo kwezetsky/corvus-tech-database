@@ -16,7 +16,7 @@ The Founder is the creator and owner of the Corvus Technologies group and game, 
 The BoD is comprised of the Directors of each department within the group. Directors have the highest administrative authority over company personnel in general, second only to the Founder. Directors additionaly have full authority over administrative matters within the department they direct. However, Directors are not the 1st-in-command over departmental operations, as said duty is left to C-O personnel.
 
 ### Clearance-O
-C-O personnel are the 1sts-in-command of all departmental operations within their respective department. 
+C-O personnel, otherwise known as Overseers, are the 1sts-in-command of a department and its operations.
 
 ### Clearance-A
 C-A personnel are the 2nds-in-command of all departmental operations within their respective department. 
