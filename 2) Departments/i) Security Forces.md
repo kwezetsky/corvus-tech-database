@@ -3,23 +3,23 @@
 ## Information
 
 ## Ranking Structure
-### Security Overseer
+### [C-O] Security Overseer
 
-### Security Commander
+### [C-A] Security Commander
 
-### Security Captain
+### [C-4] Security Captain
 
-### Security Supervisor
+### [C-3] Security Supervisor
 
-### Security Senior Guard
+### [C-3] Security Senior Guard
 
-### Security Guard
+### [C-2] Security Guard
 
-### Security Junior Guard
+### [C-2] Security Junior Guard
 
-### Security Cadet
+### [C-1] Security Cadet
 
-### Security Trainee
+### [Intern] Security Trainee
 
 ## Divisions
 
@@ -28,17 +28,42 @@
 #### Information
 
 #### Ranking Structure
+**[SCpt] ACD Captain**
 
+**[SSup] ACD Supervisor**
+
+**[SSrG] ACD Sergeant**
+
+**[SG] ACD Operative**
+
+**[SJrG] ACD Trainee**
 
 ### Combat Medics Division
 
 #### Information
 
 #### Ranking Structure
+**[SCpt] CMD Captain**
 
+**[SSup] CMD Supervisor**
+
+**[SSrG] CMD Coordinator**
+
+**[SG] CMD Agent**
+
+**[SJrG] CND Trainee**
 
 ### Armoured Vehicles Division
 
 #### Information
 
 #### Ranking Structure
+**[SCpt] AVD Captain**
+
+**[SSup] AVD Supervisor**
+
+**[SSrG] AVD Specialist**
+
+**[SG] AVD Operator**
+
+**[SJrG] AVD Trainee**
