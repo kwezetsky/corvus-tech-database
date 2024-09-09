@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Logos%20%26%20Emblems/corvus_sf.png" height="250" width="250"/></center>
+  <img src="main/Logos%20%26%20Emblems/corvus_sf.png" height="250" width="250"/></center>
 </p>
 
 # Security Forces
