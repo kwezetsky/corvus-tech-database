@@ -13,15 +13,9 @@
 
 ### [C-4] AL-6
 
-### [C-3] AL-5
+### [C-3] AL-5 and AL-4
 
-### [C-3] AL-4
-
-### [C-2] AL-3
-
-### [C-2] AL-2
-
-### [C-2] AL-1
+### [C-2] AL-3, AL-2, and AL-1
 
 ### [C-1] Probationary Actor
 
@@ -34,7 +28,16 @@
 </p>
 
 ## Information
-Despite being under the Acting Department, AA is much more separated from AD compared to other departmental divisions. Individuals could be members of AA up to the rank of Senior Anomaly without needing to be a member of AD. 
+Despite being under the Acting Department, AA is much more separated from AD compared to other departmental divisions. Individuals could join and be members of AA up to the rank of Senior Anomaly without needing to be a member of AD. 
 
 ## Ranking Structure
 
+### [C-4] Supervisory Anomaly
+
+### [C-3] Senior Anomaly
+
+### [C-2] Anomaly
+
+### [C-2] Junior Anomaly
+
+### [C-1] Trainee Anomaly
