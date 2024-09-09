@@ -7,11 +7,11 @@
 ## Information
 
 ## Ranking Structure
-### [C-O] Acting Overseer
+### [C-O] Actor Overseer
 
-### [C-A] Acting Supervisor
+### [C-A] Actor Organiser 
 
-### [C-4] AL-6
+### [C-4] Actor Supervisor
 
 ### [C-3] AL-5 and AL-4
 
