@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/../main/Logos%20%26%20Emblems/corvus.png" height="250" width="250"/></center>
+</p>
+
 # Company General Information
 ## History
 Corvus Technologies was founded during World War 2, under the name Raven Manufacturing.
