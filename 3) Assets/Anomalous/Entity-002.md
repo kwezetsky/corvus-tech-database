@@ -1,11 +1,15 @@
 # Entity-002
 
-**Common Name:** 
+> Due to insufficient research on Entity-002, this document is largely incomplete.
 
-**Containment Class:**
+**Common Name:** [UNAVAILABLE]
 
-**Danger Class:**
+**Containment Class:** 2
+
+**Danger Class:** 3
 
 ## Description
+Entity-002 is a spherical, dark-magenta, and translucent orb approximately 1 stud in diameter. Its material appears to be a form of glass, however analysis has been challenging and inconclusive. 
 
 ## Containment Procedure
+Entity-002 is to be kept on a small pedestal within a 1.5 stud cubic glass box, and kept securely within Anomalous Object Storage.
