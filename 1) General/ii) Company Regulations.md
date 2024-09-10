@@ -35,6 +35,10 @@ Perpetrators will receive a minimum 7 day ban, and be blacklisted from the group
 
 Perpetrators will be exiled from all their departments and/or rank-locked to Intern.
 
+5) **Information Restrictions:**
+* a) Players may not possess information which they lack clearance or authorisation to possess, be it in the form of text, image, audio, or video.
+* b) Players 
+
 ### Section 2: Code of Conduct
 > The following section contains regulations that apply to company employees, meaning individuals ranked "Intern" or above within the main group.
 > Employees in violation of the CoC will be subject to legislative punishment.

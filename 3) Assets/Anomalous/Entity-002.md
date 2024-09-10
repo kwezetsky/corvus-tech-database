@@ -1,8 +1,10 @@
 # Entity-002
 
-**Containment Class:** $\textsf{\color{#f5750e}{Introduction}}$ 
+**Common Name:** 
 
-**Danger Class:** X
+**Containment Class:**
+
+**Danger Class:**
 
 ## Description
 
