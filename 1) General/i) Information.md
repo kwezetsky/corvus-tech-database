@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/../main/Logos%20%26%20Emblems/corvus.png" height="250" width="250"/></center>
+</p>
+
 # Company General Information
 ## History
 Corvus Technologies was founded during World War 2, under the name Raven Manufacturing.
@@ -13,19 +17,19 @@ From the limitless funds that Raven Manufacturing had gained, it had expanded it
 The Founder is the creator and owner of the Corvus Technologies group and game, and has the highest authority.
 
 ### Board of Directors
-The BoD is comprised of the Directors of each department within the group. Directors have the highest administrative authority over company personnel in general, second only to the Founder. Directors additionaly have full authority over administrative matters within the department they direct. However, Directors are not the 1st-in-command over departmental operations, as said duty is left to C-O personnel.
+The BoD is comprised of the company's Directors who have the highest administrative authority over company personnel in general, second only to the Founder. Directors additionaly have full authority over administrative matters within the department they direct. It is possible for a Director to direct more than 1 department.
 
 ### Clearance-O
-C-O personnel, otherwise known as Overseers, are the 1sts-in-command of a department and its operations.
+C-O personnel, otherwise known as Overseers, are the 1sts-in-command of a department. They are in charge of all departmental operations within the department they oversee.
 
 ### Clearance-A
-C-A personnel are the 2nds-in-command of all departmental operations within their respective department. 
+C-A personnel are the 2nds-in-command of all departmental operations within their respective department. They serve as the right hand of their department's Overseer.
 
 ### Clearance-4
-C-4 personnel are the heads of departmental Medium Command.
+C-4 personnel are the heads of departmental Medium Command, and are also responsible for selecting and training C-3 personnel.
 
 ### Clearance-3
-C-3 personnel are the main members of their department's Medium Command.
+C-3 personnel are senior employees and usually make up the majority of their department's Medium Command.
 
 ### Clearance-2
 C-2 personnel are standard company personnel that have passed probation and make up the main workforce of the company.
@@ -37,4 +41,4 @@ C-1 personnel are employees that have recently passed the entry phase of departm
 Interns are fresh members of the company and have the ability of applying to and joining departments.
 
 ### Test Subject
-TS are usually former convicts who have volunteered as human subjects for the company's experiments in exchange for earning pardon. 
+TS are human subjects used for the company's experiments. Most of them are former convicts who have volunteered for experimentation in exchange for earning pardon. 
