@@ -27,6 +27,7 @@
 
 ### Section 3: Test Subject Regulations:
 > The following section contains regulations that apply to Test Subjects.
+> These regulations are to be enforced by Security Forces personnel.
 > Test Subjects who violate these regulations will not be subject to legislative punishent unless stated otherwise.
 
 1) **Trespassing:**
@@ -34,3 +35,14 @@
   * i) TS in violation of this rule are to be terminated immediately.
 * b) TS may not cross the line between the Test Subject Containment waiting area and Test Subject Transfer Gate.
   * i) TS in violation of this rule are to be terminated immediately. TS who touch or pass the line on accident are to be given 1 warning, then terminated if they repeat their action.
+
+2) **Contraband:**
+* a) TS may not be in posession of items deemed to be contraband. 
+  * i) TS who have displayed possesion of contraband are to be terminated immediately.
+  * ii) In scenarios where TS have not displayed possesion of contraband, but have found to possess such, the prohibited items are to be removed from their person. TS may not be terminated in this scenario unless in violation of S3; 2; a; i.
+* b) The following is a full list of contraband:
+  * i) Melee weaponry
+  * ii) Firearms
+  * iii) Anomalous items (when not participating in a test)
+
+3) **Murder and Manslaughter:**
