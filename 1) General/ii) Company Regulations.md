@@ -10,20 +10,44 @@
 1) **Platform Terms of Service:**
 * a) Whilst on the ROBLOX platform, players must abide by the ROBLOX Terms of Service.
 
+Perpetrators will receive a minimum 3 day ban.
+
 2) **In-game Bugs:**
 * a) Players may not abuse bugs found within the game to obtain an unfair advantage for themselves or others.
-  * i) Examples of abusable bugs that may be encountered include but are not limited to: damaging other players through walls or obstructions, purposefully clipping oneself or others through walls or obstructions, frog jumping.
+* b) Examples of abusable bugs that may be encountered include but are not limited to:
+  * i) damaging other players through walls or obstructions
+  * ii) purposefully clipping oneself or others through walls or obstructions
+  * iii) frog jumping.
 * b) All bugs that are found must be reported to the Founder.
 
+Perpetrators will receive a minimum 1 day ban.
+
 3) **Admin Abusing:**
-* a) Individuals who have access to in-game commands may not utilise said commands for purposes that ruin the player experience.
-* b) Individuals who have permissions to edit and configure the main group or departmental groups may not utilise said permissions with ill intent.
+* a) Players who have access to in-game commands may not utilise said commands for purposes that ruin the player experience.
+* b) Players who have permissions to edit and configure the main group or departmental groups may not utilise said permissions with ill intent.
+
+Perpetrators will receive a minimum 7 day ban, and be blacklisted from the group.
+
+4) **Alternative Accounts:**
+* a) Players who intent to utilise an alt-account must register it within the communications server.
+* b) Players are authorised to have a maximum of 1 alt-account.
+* c) A player's alt-account may be used to riot/participate in tests as TS while they hold an employee position on their main account, and vice versa.
+
+Perpetrators will be exiled from all their departments and/or rank-locked to Intern.
 
 ### Section 2: Code of Conduct
 > The following section contains regulations that apply to company employees, meaning individuals ranked "Intern" or above within the main group.
+> Employees in violation of the CoC will be subject to legislative punishment.
 
 1) **Maturity and Professionalism:**
 * a) All employees must be mature and professional while conducting their duties.
+* b) Employees are not required to utilise grammar in-game unless:
+  * i) Stated otherwise by specific departmental regulations
+  * ii) In situations that require utmost maturity
+
+2) **Impersonation:**
+* a) Employees may not impersonate being a member of a department/division that they are not.
+* b) Employees may not impersonate being an individual of authority when they are not.
 
 ### Section 3: Test Subject Regulations:
 > The following section contains regulations that apply to Test Subjects.
@@ -32,17 +56,19 @@
 
 1) **Trespassing:**
 * a) TS may not enter areas designated to be restricted without proper clearance or authorisation.
-  * i) TS in violation of this rule are to be terminated immediately.
 * b) TS may not cross the line between the Test Subject Containment waiting area and Test Subject Transfer Gate.
-  * i) TS in violation of this rule are to be terminated immediately. TS who touch or pass the line on accident are to be given 1 warning, then terminated if they repeat their action.
+TS in violation of this rule are to be terminated immediately. TS who touch or pass the line on accident are to be given 1 warning, then terminated if they repeat their action.
 
 2) **Contraband:**
 * a) TS may not be in posession of items deemed to be contraband. 
-  * i) TS who have displayed possesion of contraband are to be terminated immediately.
-  * ii) In scenarios where TS have not displayed possesion of contraband, but have found to possess such, the prohibited items are to be removed from their person. TS may not be terminated in this scenario unless in violation of S3; 2; a; i.
 * b) The following is a full list of contraband:
   * i) Melee weaponry
   * ii) Firearms
   * iii) Anomalous items (when not participating in a test)
+TS who have displayed possesion of contraband are to be terminated immediately.
 
-3) **Murder and Manslaughter:**
+In scenarios where TS have not displayed possesion of contraband, but have found to possess such, the prohibited items are to be removed from their person. TS may not be terminated in this scenario unless in violation of `S3; 2a; i`.
+
+3) **Violence:**
+* a) TS may not harm fellow TS, company employees, nor assets.
+* b) TS may not kill nor attempt to kill the aforementioned parties in `3a`.
