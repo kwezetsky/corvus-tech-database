@@ -30,10 +30,10 @@ The Danger Class of an Entity represents how much of a threat it poses to other 
 
 * **Danger Class 1** - Entity poses little to no threat to individuals whatsoever, with the worst cases being mild scratches or bruises.
 
-* **Danger Class 2** - Entity poses minor threat to individuals. Individuals may feel mild and harmful effects from its anomalous effects.
+* **Danger Class 2** - Entity poses minor threat to individuals. Individuals may feel mild and harmful effects from its anomalous properties.
 
 * **Danger Class 3** - Entity poses moderate threat to individuals. Moderate injury could be inflicted unto individuals, and prolonged exposure may lead to death.
 
-* **Danger Class 4** - Entity poses high threat threat to individuals. Individuals could suffer severe injuries or be killed almost immediately.
+* **Danger Class 4** - Entity poses high threat to individuals. Individuals could suffer severe injuries or be killed almost immediately.
 
 * **Danger Class 5** - Entity poses significant and severe threat to individuals, including widespread and instantaneous loss of life.
