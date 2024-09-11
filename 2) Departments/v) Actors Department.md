@@ -8,8 +8,9 @@
 
 ## Ranking Structure
 ### [C-O] Actor Overseer
+The Overseer oversees the entirety of AD and AA.
 
-### [C-A] Actor Organiser 
+### [C-A] Actor Organiser
 
 ### [C-4] Actor Supervisor
 
@@ -20,6 +21,7 @@
 ### [C-1] Probationary Actor
 
 ### [Intern] Trainee Actor
+Trainee Actors have just passed the AD application and receive basic information on acting, but may not begin acting until they have passed a Trainee Actor Exam.
 
 # Anomaly Actors
 
@@ -41,3 +43,4 @@ Despite being under the Acting Department, AA is much more separated from AD com
 ### [C-2] Junior Anomaly
 
 ### [C-1] Trainee Anomaly
+Tra
