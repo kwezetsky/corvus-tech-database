@@ -28,12 +28,16 @@ Perpetrators will receive a minimum 1 day ban.
 
 Perpetrators will receive a minimum 7 day ban, and be blacklisted from the group.
 
-4) **Alternative Accounts:**
-* a) Players who intent to utilise an alt-account must register it within the communications server.
-* b) Players are authorised to have a maximum of 1 alt-account.
-* c) A player's alt-account may be used to riot/participate in tests as TS while they hold an employee position on their main account, and vice versa.
+4) **Information Restrictions:**
+* a) Players are only authorised to possess information classified to certain clearances, be it in the form of text, image, audio, or video, if they possess said clearance.
+* b) Players may not distribute classified information without authorisation.
 
-Perpetrators will be exiled from all their departments and/or rank-locked to Intern.
+Perpetrators will be rank-locked to Test Subject or blacklisted from the group.
+
+5) **Spawn-camping and Spawn-trapping:**
+* a) Players may not repeatedly kill other players who are within their spawn area.
+* b) Players may not kill another player within 15 seconds from the moment that player spawns.
+* c) Players may not kill other players that are attempting to leave their spawn area.
 
 ### Section 2: Code of Conduct
 > The following section contains regulations that apply to company employees, meaning individuals ranked "Intern" or above within the main group.
@@ -47,7 +51,10 @@ Perpetrators will be exiled from all their departments and/or rank-locked to Int
 
 2) **Impersonation:**
 * a) Employees may not impersonate being a member of a department/division that they are not.
-* b) Employees may not impersonate being an individual of authority when they are not.
+* b) Employees may not impersonate being an individual of authority.
+
+3) **Trespassing:**
+* a) Employees may not enter areas designated to be restricted without proper clearance or authorisation.
 
 ### Section 3: Test Subject Regulations:
 > The following section contains regulations that apply to Test Subjects.
