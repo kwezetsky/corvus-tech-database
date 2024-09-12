@@ -9,6 +9,9 @@
 **Danger Class:** 3
 
 ## Description
-Entity-004 is a 
+SCP-004, when condensed and contained, is a dark green fluid. It is currently impossible for SCP-004 to be depleted, as it is seemingly able to duplicate itself within containment and fill its containment vat. 
+
+The effects of SCP-004 in gaseous form require further study.
 
 ## Containment Procedure
+SCP-004 is kept within a cylindrical, transparent, pressurised vat sealed with a steel frame. This vat is placed within a 25 * 15 stud containment chamber, which features a reinforced-gate airlock, on the opposite end of the chamber from the aforementioned airlock. For testing purposes, SCP-004 may be released in gaseous form through a vent installed in the lower frame of its containment vat. The valve which controls the release of SCP-004 through this vent is keycard-operated from the viewing area of the testing chamber.

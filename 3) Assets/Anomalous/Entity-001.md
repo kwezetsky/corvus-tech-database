@@ -1,6 +1,6 @@
 # Entity-001
 
-> All information on Entity-001 is restricted only to employees ranking Director and above.
+> All information on Entity-001 is restricted only to the Board of Directors and the Founder.
 
 **Common Name:** [CLASSIFIED]
 
