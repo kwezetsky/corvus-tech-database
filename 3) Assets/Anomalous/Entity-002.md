@@ -1,6 +1,6 @@
 # Entity-002
 
-> Due to insufficient research on Entity-002, this document is largely incomplete.
+> Due to insufficient research on Entity-002, this document is incomplete.
 
 **Common Name:** [UNAVAILABLE]
 

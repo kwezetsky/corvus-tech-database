@@ -1,6 +1,6 @@
 # Entity-003
 
-> Due to insufficient research on Entity-003, this document is mostly incomplete.
+> Due to insufficient research on Entity-003, this document is incomplete.
 
 **Common Name:** Spore Raptor
 
