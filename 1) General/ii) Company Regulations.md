@@ -21,54 +21,20 @@
 * AD : Acting Department
 * AA : Anomaly Actors
 
-**Punishments:**
-> The following are legislative punishments issued to employees in violation of the CoC, listed in increasing severity.
-
-1) Verbal warning
-2) Formal warning
-3) Suspension (3 days to 2 weeks)
-4) Demotion
-5) Ranklock
-6) Department/division exile
-7) Department/division blacklist
-8) Group blacklist
-
 ### Section 1: General Regulations
 > The following section contains regulations that apply to all players, including individuals in the group ranked TS up to the Founder, as well as individuals not within the group.
 
-1) **Platform Terms of Service:**
-* a) Whilst on the ROBLOX platform, players must abide by the ROBLOX ToS.
+1) Whilst on the ROBLOX platform, players must abide by the ROBLOX ToS
 
-Perpetrators will receive a minimum 3 day ban.
+2) Players may not abuse bugs found within the game to obtain an unfair advantage over others. All bugs that are found must be reported to the Founder.
 
-2) **In-game Bugs:**
-* a) Players may not abuse bugs found within the game to obtain an unfair advantage for themselves or others.
-* b) Examples of abusable bugs that may be encountered include but are not limited to:
-  * i) damaging other players through walls or obstructions
-  * ii) purposefully clipping oneself or others through walls or obstructions
-  * iii) frog jumping.
-* b) All bugs that are found must be reported to the Founder.
+3) Players may not repeatedly kill other players who are within their spawn area nor are attempting to leave their spawn area. Players also may not kill another player within 15 seconds from the moment that player spawns.
 
-Perpetrators will receive a minimum 1 day ban.
+4) Players are only authorised to possess information classified to certain clearances if they possess said clearance. Information may be in the form of text, image, audio, or video. Players additionally may not distribute classified information without authorisation.
 
-3) **Admin Abusing:**
-* a) Players who have access to in-game commands may not utilise said commands for purposes that ruin the player experience.
-* b) Players who have permissions to edit and configure the main group or departmental groups may not utilise said permissions with ill intent.
+5) Players who have access to in-game commands may not utilise said commands for purposes that ruin the player experience.
 
-Perpetrators will receive a minimum 7 day ban, and be blacklisted from the group.
-
-4) **Information Restrictions:**
-* a) Players are only authorised to possess information classified to certain clearances, be it in the form of text, image, audio, or video, if they possess said clearance.
-* b) Players may not distribute classified information without authorisation.
-
-Perpetrators will receive punishments ranging from demotions to group-wide blacklists depending on severity.
-
-5) **Spawn-camping and Spawn-trapping:**
-* a) Players may not repeatedly kill other players who are within their spawn area.
-* b) Players may not kill another player within 15 seconds from the moment that player spawns.
-* c) Players may not kill other players that are attempting to leave their spawn area.
-
-Perpetrators will receive a minimum 1 day ban.
+6) Players who have permissions to edit and configure the main group or departmental groups may not utilise said permissions with ill intent, such as randomly demoting or exiling players.
 
 ### Section 2: Code of Conduct
 > The following section contains regulations that apply to company employees, meaning individuals ranked "Intern" or above within the main group.
