@@ -37,22 +37,37 @@
 6) Players who have permissions to edit and configure the main group or departmental groups may not utilise said permissions with ill intent, such as randomly demoting or exiling players.
 
 ### Section 2: Code of Conduct
-> The following section contains regulations that apply to company employees, meaning individuals ranked "Intern" or above within the main group.
+> The following section contains regulations that apply to Company employees, meaning individuals ranked "Intern" or above within the main group.
 > Employees in violation of the CoC will be subject to legislative punishment.
 
 1) **Maturity and Professionalism:**
 * a) All employees must be mature and professional while conducting their duties.
-* b) Employees are not required to utilise grammar in-game unless:
-  * i) Stated otherwise by specific departmental regulations.
-  * ii) Requested to by C-3+ personnel.
-  * iii) In situations that require utmost maturity. Personnel are expected to be aware of such situations.
+* b) Employees may not disrupt nor intrude on each other's duties.
+* c) Employees are not required to utilise grammar in-game unless stated otherwise by individual departmental guidelines.
 
 2) **Impersonation:**
 * a) Employees may not impersonate being a member of a department/division that they are not.
-* b) Employees may not impersonate being an individual of authority.
+* b) Employees may not assume authority over others when they do not have the right nor authority to do so.
 
 3) **Trespassing:**
-* a) Employees may not enter areas designated to be restricted without proper clearance or authorisation.
+* a) Employees may not enter any area designated to be restricted without proper clearance or authorisation to be in said area.
+
+4) **Firearms and Weapons:**
+* a) Non-SF personnel may not equip nor utilise firearms/weapons unless in self-defense against immediate threat from a:
+  * i) Hostile Test Subject
+  * ii) Hostile Combatant
+  * iii) Individual infected by biohazardous anomaly
+  * iv) Aggressive Compsognathus longipes
+* b) No employees may utilise firearms/weapons to harm nor kill any Anomalous Asset. 
+* c) SF personnel have additional regulations on firearm and weapon usage, which are found in the SF Handbook.
+
+5) **Insubordination:**
+* a) Employees must obey all orders given to them by those above them in the chain of command.
+* b) Employees may refuse to follow through with orders if they believe these orders violate Company regulations, and must report the ordering individual to those higher in the chain of command along with evidence of the occurence.
+
+6) **Headgear code:**
+* a) Employees may not wear excessively large avatar headgear that drastically enlarges their hitbox and causes visual disruption.
+* b) Employees may not wear avatar headgear that emits sounds nor particles.
 
 ### Section 3: Test Subject Regulations:
 > The following section contains regulations that apply to Test Subjects.
@@ -82,10 +97,10 @@
   * iii) Anomalous items
 
 5) **Violence:**
-* a) TS may not physically harm fellow TS, company employees, nor assets.
-* b) TS may not kill nor attempt to kill the aforementioned
+* a) TS may not physically harm fellow TS, Company employees, nor assets.
+* b) TS may not kill nor attempt to kill the aforementioned parties.
 * c) `S3; 5a-b` may temporarily be voided, and TS authorised to harm or even kill certain assets for testing purposes by R&I Junior Researcher+ with Senior Researcher+ permission and supervision.
 
 6) **Asset Interaction:**
 * a) TS may speak to passive/neutral assets that visit/are brought to TSC.
-  * i) TS are not permitted to insult nor antagonise these assets.
+* b) TS are not permitted to insult nor antagonise assets that understand human speech, unless following instructions while participating in a test.
