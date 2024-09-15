@@ -49,7 +49,7 @@ TS are human subjects used for the Company's experiments. Most of them are forme
 # Primary Research Area - 1
 Commonly referred to by the Company as "Atlas", PRA-1 is the first and largest collection of research facilities constructed by Corvus Technologies on the Volare Archipelago.
 
-## Locations
+## Primary Islands
 ### Isle Viscera
 Isle Viscera is the 2nd-largest island of the Volare Archipelago
 
@@ -58,14 +58,17 @@ Isle Coranima, better known as the Reserve/Sanctuary is the largest island withi
 
 The Reserve consists of numerous biomes, each suiting different species of Assets.
 
+### Isle Malossa
+Isle Malossa, while a small island, is where the Company has constructed a specialised underground facility with the purpose of containing our highly dangerous Entities with the most complex containment procedures.
+
 ## Area Directives
-### Directive [normal]
+### Directive Stillwater
 Status within the Research Area is normal, and all operations may be conducted as per usual.
 
-### Directive [caution]
+### Directive Flowripple
 There is likelihood that an Asset breach has occured/will occur, or a hostile attack on the Research Area.
 
-### Directive [riot]
+### Directive Emberwave
 Test Subjects have begun rioting against the Company.
 
 ### Directive [breach/asset raid]
@@ -74,14 +77,11 @@ An Anomalous Asset has breached containment, or a Prehistoric Asset has made its
 ### Directive [raid]
 Hostile combatants are conducting an attack on the Research Area.
 
-### Directive [TSC lockdown]
+### Directive [TS lockdown]
 Test Subjects must remain within their cell blocks which will be closed and locked.
 
-### Directive [Viscera lockdown]
+### Directive Ravenflood
 All personnel must remain within their designated departmental spawn areas, and no personnel may be outdoors during the lockdown.
 
 ### Directive [sad]
 Selected SF combatants are deployed to cull the population of Assets on Isle Coranima.
-
-### Directive [i will murder someone]
-The Dark Fusion Core has exploded, and Isle Viscera no longer exists.
