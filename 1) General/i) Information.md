@@ -44,8 +44,6 @@ The Intern rank is obtained by passing the Intern application.
 ### Test Subject
 TS are human subjects used for the Company's experiments. Most of them are former convicts who have volunteered for experimentation in exchange for earning pardon. 
 
-
-
 # Primary Research Area - 1
 Commonly referred to by the Company as "Atlas", PRA-1 is the first and largest collection of research facilities constructed by Corvus Technologies on the Volare Archipelago.
 
@@ -65,7 +63,7 @@ Isle Malossa, while a small island, is where the Company has constructed a speci
 ### Directive Stillwater
 Status within the Research Area is normal, and all operations may be conducted as per usual.
 
-### Directive Flowripple
+### Directive [caution]
 There is likelihood that an Asset breach has occured/will occur, or a hostile attack on the Research Area.
 
 ### Directive Emberwave
@@ -80,7 +78,7 @@ Hostile combatants are conducting an attack on the Research Area.
 ### Directive [TS lockdown]
 Test Subjects must remain within their cell blocks which will be closed and locked.
 
-### Directive Ravenflood
+### Directive [site-wide lockdown]
 All personnel must remain within their designated departmental spawn areas, and no personnel may be outdoors during the lockdown.
 
 ### Directive [sad]
