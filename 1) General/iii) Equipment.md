@@ -3,12 +3,17 @@
 ### Medical
 * **Bandage**
 
-### Tranquilisers
-* **Tranquiliser rifle**
-* **Transquiliser pistol**
+### Tranquillisers
+* **Tranquilliser rifle**
+* **Tranquilliser pistol**
+
+### Utility
+* **Flashlight**
+* **Floodlight**
 
 ### Security
 * **Baton**
+* **Taser**
 * **Riot Shield**
 * **Ballistic Shield**
 
@@ -25,6 +30,7 @@
 * **HK416** 
 * **ARX160**
 * **SR-15**
+* **AK-12**
 * **XM8**
 * **AUG A3**
 
