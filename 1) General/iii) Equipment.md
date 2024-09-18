@@ -1,10 +1,52 @@
 # Company Equipment
+
 ## General
-### Medical
+Intern+
+
+Items
+* Access Card
+* Flashlight
+* Bandage
+* Broom
+
+Vehicles
+* ATV
+
+Clearance-1+
+
+Items
+* **Binoculars**
+
+Vehicles
+* **Staff Jeep**
+
+## Departmental
+### Research & Innovation
+Probationary Researcher+
+* **Tranquilliser pistol**
+
+Junior Researcher+
+* **Tracking Device**
+* **Surveillance Camera**
+
+Researcher+
+* **Floodlight**
+
+Senior Researcher+
+* **Night Vision Binoculars**
+
+### Medical & Veterinary
+Nurse+
 * **Medical Scanner**
-* **Bandage**
 * **Splint**
 * **Tourniquet**
+
+### Engineering & Logistics
+Probationary Technician+
+* **Wrench**
+* **Safety helmet**
+
+### Security Forces
 
 ### Tranquillisers
 * **Tranquilliser rifle**
