@@ -62,7 +62,25 @@ Security Cadet+
 * **Tranquilliser rifle**
 
 Security Junior Guard+
+
+SMG
+* **MPX - 9×19mm 850RPM**
+
+AR
+* **AK-12 - 5.45×39mm 700RPM**
+
+Security Guard+
+
+AR
+* **MCX-SPEAR - .277 850RPM** 
 * **SCAR-L - 5.56×45mm 650RPM**
+* **SCAR-H - 7.62×51mm 550RPM**
+
+SG
+* **M870 - 7+1rnd PA**
+
+Security Senior Guard+
+* **Five-seveN - 5.7×28mm**
 
 
 ### Utility
@@ -87,17 +105,12 @@ Security Junior Guard+
 * **Ballistic Shield**
 
 ### Handguns
-
-* **Five-seveN - 5.7×28mm**
 * **P320 - .45 ACP**
 * **.500 Magnum - .500**
 
 ### Assault Rifles
-* **SCAR-H - 7.62×51mm 550RPM**
-* **MCX-SPEAR - .277 850RPM** 
 * **ARX160 - 7.62×39mm 700RPM**
 * **SR-15 - 5.56×45mm 750RPM**
-* **AK-12 - 5.45×39mm 700RPM**
 * **XM8 - 5.56×45mm 750RPM**
 * **AUG A3 - 5.56×45mm 720RPM**
 
@@ -110,7 +123,6 @@ Security Junior Guard+
 
 ### Submachine Guns/PDWs
 * **Vector - 10×25mm 1200RPM**
-* **MPX - 9×19mm 850RPM**
 * **MP7 - 4.6×30mm 950RPM**
 * **APC45 - .45 ACP 1080RPM**
 * **PMX - 9×19mm 900RPM**
@@ -123,7 +135,6 @@ Security Junior Guard+
 
 ### Shotguns
 * **KSG - 14+1rnd PA**
-* **M870 - 7+1rnd PA**
 * **Supernova - 4+1rnd PA**
 * **Saiga-12 - 12rnd SA**
 
