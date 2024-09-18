@@ -1,7 +1,10 @@
 # Company Equipment
 ## General
 ### Medical
+* **Medical Scanner**
 * **Bandage**
+* **Splint**
+* **Tourniquet**
 
 ### Tranquillisers
 * **Tranquilliser rifle**
@@ -10,6 +13,14 @@
 ### Utility
 * **Flashlight**
 * **Floodlight**
+* **Wrench**
+* **Broom**
+
+### Food
+* **Plants**
+* **Meat**
+* **Tranquillised Plants**
+* **Tranquillised Meat**
 
 ### Security
 * **Baton**
@@ -75,12 +86,14 @@
 * **MRAP**
 
 **Armoured Personnel Carrier**
-* **Stryker**
-* **Boxer**
+* **Gurkha MPV**
+* **M1126 Stryker**
+* **Boxer CRV**
 
 **Anti Air**
 * **M163 VADS**
 * **Gepard 1A2**
+* **M142 HIMARS**
 
 **MBT**
 * **Leopard 2A7+**
