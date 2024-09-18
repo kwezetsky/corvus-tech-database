@@ -13,8 +13,11 @@
 ### Utility
 * **Flashlight**
 * **Floodlight**
+* **Tracker**
+* **Surveillance camera**
 * **Wrench**
-* **Broom**
+* **Binoculars**
+* **Night Vision Goggles**
 
 ### Food
 * **Plants**
@@ -74,16 +77,23 @@
 
 ## Vehicles
 ### Standard
+**Ground Vehicles**
 * **ATV**
 * **Staff Jeep**
 * **Humvee**
+* **Armed Humvee**
+* **MRAP**
 * **SOV**
 * **Ural-4320**
+
+**Boats**
+* **Jetski**
+* **SURV**
+
+**Aircraft**
 * **MH-6 Littlebird**
 
 ### AVD Exclusive
-* **Armed Humvee**
-* **MRAP**
 
 **Armoured Personnel Carrier**
 * **Gurkha MPV**
@@ -97,6 +107,9 @@
 
 **MBT**
 * **Leopard 2A7+**
+
+**Boats**
+* **Patrol Ship**
 
 **Aircraft**
 * **V-22 Osprey**
