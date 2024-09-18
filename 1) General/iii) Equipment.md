@@ -1,23 +1,24 @@
 # Company Equipment
 
 ## General
-Intern+
+**Intern+**
 
-Items
+**Items**
 * Access Card
 * Flashlight
-* Bandage
 * Broom
 
-Vehicles
+**Vehicles**
 * ATV
 
-Clearance-1+
+**Clearance-1+**
 
-Items
+**Items**
 * **Binoculars**
+* **Plants**
+* **Meat**
 
-Vehicles
+**Vehicles**
 * **Staff Jeep**
 
 ## Departmental
@@ -38,6 +39,7 @@ Senior Researcher+
 ### Medical & Veterinary
 Nurse+
 * **Medical Scanner**
+* **Bandage**
 * **Splint**
 * **Tourniquet**
 
@@ -46,11 +48,29 @@ Probationary Technician+
 * **Wrench**
 * **Safety helmet**
 
-### Security Forces
+Technician+
+* **Sentry Turret**
 
-### Tranquillisers
+### Security Forces
+Security Trainee+
+* **Baton**
+* **Taser**
+
+Security Cadet+
+* **G19 - 9mm**
+* **Riot Shield**
 * **Tranquilliser rifle**
-* **Tranquilliser pistol**
+
+Security Junior Guard+
+* **
+
+
+
+* **Ballistic Shield**
+* **Night Vision Goggles**
+* **Tranquilliser rifle**
+
+**Firearms**
 
 ### Utility
 * **Flashlight**
@@ -73,18 +93,17 @@ Probationary Technician+
 * **Riot Shield**
 * **Ballistic Shield**
 
-## Firearms
 ### Handguns
-* **G19**
-* **Five-seveN**
-* **P320**
-* **500 Magnum**
+* **G19 - 9mm**
+* **Five-seveN - 5.7×28mm**
+* **P320 - .45 ACP**
+* **.500 Magnum - .500 Special**
 
 ### Assault Rifles
-* **SCAR-L**
-* **SCAR-H**
-* **HK416** 
-* **ARX160**
+* **SCAR-L - 5.56×45mm 650RPM**
+* **SCAR-H - 7.62×51mm 550RPM**
+* **HK416 - 5.56×45mm 850RPM** 
+* **ARX160 - 7.62×39mm 700RPM**
 * **SR-15**
 * **AK-12**
 * **XM8**
@@ -116,6 +135,9 @@ Probationary Technician+
 * **M870**
 * **Supernova**
 * **Saiga-12**
+
+## Firearms
+
 
 ## Vehicles
 ### Standard
