@@ -57,20 +57,13 @@ Security Trainee+
 * **Taser**
 
 Security Cadet+
-* **G19 - 9mm**
+* **G19 - 9×19mm**
 * **Riot Shield**
 * **Tranquilliser rifle**
 
 Security Junior Guard+
-* **
+* **SCAR-L - 5.56×45mm 650RPM**
 
-
-
-* **Ballistic Shield**
-* **Night Vision Goggles**
-* **Tranquilliser rifle**
-
-**Firearms**
 
 ### Utility
 * **Flashlight**
@@ -94,47 +87,45 @@ Security Junior Guard+
 * **Ballistic Shield**
 
 ### Handguns
-* **G19 - 9mm**
+
 * **Five-seveN - 5.7×28mm**
 * **P320 - .45 ACP**
-* **.500 Magnum - .500 Special**
+* **.500 Magnum - .500**
 
 ### Assault Rifles
-* **SCAR-L - 5.56×45mm 650RPM**
 * **SCAR-H - 7.62×51mm 550RPM**
-* **HK416 - 5.56×45mm 850RPM** 
+* **MCX-SPEAR - .277 850RPM** 
 * **ARX160 - 7.62×39mm 700RPM**
-* **SR-15**
-* **AK-12**
-* **XM8**
-* **AUG A3**
+* **SR-15 - 5.56×45mm 750RPM**
+* **AK-12 - 5.45×39mm 700RPM**
+* **XM8 - 5.56×45mm 750RPM**
+* **AUG A3 - 5.56×45mm 720RPM**
 
 ### Marksman/Sniper Rifles
-* **Intervention**
-* **M28A1**
-* **RMSR**
-* **MSG90**
-* **SL8**
+* **MSR - .338**
+* **Intervention - .408**
+* **M28A1 - .50 BMG**
+* **MSG90 - 7.62×51mm**
+* **SL8 - .223**
 
 ### Submachine Guns/PDWs
-* **Vector**
-* **MPX**
-* **MP7**
-* **APC45**
-* **PMX**
+* **Vector - 10×25mm 1200RPM**
+* **MPX - 9×19mm 850RPM**
+* **MP7 - 4.6×30mm 950RPM**
+* **APC45 - .45 ACP 1080RPM**
+* **PMX - 9×19mm 900RPM**
 
 ### Light Machine Guns
-* **MG5**
-* **M60E6**
-* **EVOLYS**
-* **LAMG**
+* **MG5 7.62×51mm 720RPM**
+* **M60E6 7.62×51mm 650RPM**
+* **EVOLYS 5.56×45mm 750RPM**
+* **LAMG 5.56×45mm 600RPM**
 
 ### Shotguns
-* **KSG**
-* **MR1**
-* **M870**
-* **Supernova**
-* **Saiga-12**
+* **KSG - 14+1rnd PA**
+* **M870 - 7+1rnd PA**
+* **Supernova - 4+1rnd PA**
+* **Saiga-12 - 12rnd SA**
 
 ## Firearms
 
