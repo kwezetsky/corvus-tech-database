@@ -1,183 +1,210 @@
 # Company Equipment
 
 ## General
-**Intern+**
+* **Access Card**
 
-**Items**
-* Access Card
-* Flashlight
-* Broom
+The Corvus Technologies `Access Card` is unique to each employee, and grants access to open any door that one has the clearance for.
 
-**Vehicles**
-* ATV
+The `Access Card` is provided to all employees.
 
-**Clearance-1+**
+* **Flashlight**
 
-**Items**
+The `Flashlight` is capable of lighting up a decent range in front of someone, allowing one to effectively watch their step in dark areas or at night.
+
+The `Flashlight` is provided to all employees.
+
 * **Binoculars**
-* **Plants**
-* **Meat**
 
-**Vehicles**
-* **Staff Jeep**
+The `Binoculars` let one have an enlarged view of distant objects and areas, and measure the distance to them.
 
-## Departmental
-### Research & Innovation
-Probationary Researcher+
-* **Tranquilliser pistol**
+The `Binoculars` are provided to Clearance-1.
 
-Junior Researcher+
+* **Broom**
+
+The `Broom` is used to clean up messes on the ground, allowing one to earn a few credits.
+
+The `Broom` is available for everyone at janitorial closets.
+
+## Research
+* **Tranquilliser Rifle**
+* **Tranquilliser Pistol**
 * **Tracking Device**
-* **Surveillance Camera**
+* **Surveillance Camera
+* **Food - Plants**
+* **Food - Meat**
+* **Food - Tranq Plants**
+* **Food - Tranq Meat**
 
-Researcher+
-* **Floodlight**
-
-Senior Researcher+
-* **Night Vision Binoculars**
-
-### Medical & Veterinary
-Nurse+
-* **Medical Scanner**
+## Medical
 * **Bandage**
 * **Splint**
 * **Tourniquet**
+* **Medical Scanner**
+* **Bandage Bag**
 
-### Engineering & Logistics
-Probationary Technician+
-* **Wrench**
-* **Safety helmet**
-
-Technician+
-* **Sentry Turret**
-
-### Security Forces
-Security Trainee+
-* **Baton**
-* **Taser**
-
-Security Cadet+
-* **G19 - 9×19mm**
-* **Riot Shield**
-* **Tranquilliser rifle**
-
-Security Junior Guard+
-
-SMG
-* **MPX - 9×19mm 850RPM**
-
-AR
-* **AK-12 - 5.45×39mm 700RPM**
-
-Security Guard+
-
-AR
-* **MCX-SPEAR - .277 850RPM** 
-* **SCAR-L - 5.56×45mm 650RPM**
-* **SCAR-H - 7.62×51mm 550RPM**
-
-SG
-* **M870 - 7+1rnd PA**
-
-Security Senior Guard+
-* **Five-seveN - 5.7×28mm**
-
-
-### Utility
-* **Flashlight**
+## Utility
 * **Floodlight**
-* **Tracker**
-* **Surveillance camera**
 * **Wrench**
-* **Binoculars**
+* **Sledgehammer**
+* **Flare Gun**
+* **PDA**
+* **Night Vision Binoculars**
 * **Night Vision Goggles**
+* **Thermal Goggles**
 
-### Food
-* **Plants**
-* **Meat**
-* **Tranquillised Plants**
-* **Tranquillised Meat**
-
-### Security
-* **Baton**
+## Security
+* **Stun Baton**
 * **Taser**
 * **Riot Shield**
 * **Ballistic Shield**
-
-### Handguns
-* **P320 - .45 ACP**
-* **.500 Magnum - .500**
-
-### Assault Rifles
-* **ARX160 - 7.62×39mm 700RPM**
-* **SR-15 - 5.56×45mm 750RPM**
-* **XM8 - 5.56×45mm 750RPM**
-* **AUG A3 - 5.56×45mm 720RPM**
-
-### Marksman/Sniper Rifles
-* **MSR - .338**
-* **Intervention - .408**
-* **M28A1 - .50 BMG**
-* **MSG90 - 7.62×51mm**
-* **SL8 - .223**
-
-### Submachine Guns/PDWs
-* **Vector - 10×25mm 1200RPM**
-* **MP7 - 4.6×30mm 950RPM**
-* **APC45 - .45 ACP 1080RPM**
-* **PMX - 9×19mm 900RPM**
-
-### Light Machine Guns
-* **MG5 7.62×51mm 720RPM**
-* **M60E6 7.62×51mm 650RPM**
-* **EVOLYS 5.56×45mm 750RPM**
-* **LAMG 5.56×45mm 600RPM**
-
-### Shotguns
-* **KSG - 14+1rnd PA**
-* **Supernova - 4+1rnd PA**
-* **Saiga-12 - 12rnd SA**
-
-## Firearms
-
+* **Sentry Turret**
+* **Ammo Bag**
 
 ## Vehicles
-### Standard
-**Ground Vehicles**
-* **ATV**
-* **Staff Jeep**
-* **Humvee**
-* **Armed Humvee**
-* **MRAP**
-* **SOV**
-* **Ural-4320**
+* ATV
+* Staff Jeep
+* Dirtbike
+* SOV
+* Humvee
+* Armed Humvee
+* Ural-4320
+* Supply Truck
 
-**Boats**
-* **Jetski**
-* **SURV**
+* Jetski
+* SURC
 
-**Aircraft**
-* **MH-6 Littlebird**
+* MH-6 Littlebird
 
-### AVD Exclusive
+## AVD-Exclusive Vehicles
+* MRAP
+* Gurkha RPV
+* M1126 Stryker
+* Boxer CRV
 
-**Armoured Personnel Carrier**
-* **Gurkha MPV**
-* **M1126 Stryker**
-* **Boxer CRV**
+* M163 VADS
+* Gepard 1A2
+* SA-22
 
-**Anti Air**
-* **M163 VADS**
-* **Gepard 1A2**
-* **M142 HIMARS**
+* Leopard 2A7+
 
-**MBT**
-* **Leopard 2A7+**
+* OPV
 
-**Boats**
-* **Patrol Ship**
+* V-22 Osprey
+* UH-60V Black Hawk
+* AH-64E
 
-**Aircraft**
-* **V-22 Osprey**
-* **UH-60V Blackhawk**
-* **AH-64E**
+## Firearms
+* **G19** </br>
+Semi-Automatic Handgun
+    * Magazine Capacity: 15+1
+    * Cartridge: 9×19mm
+    * Circular distribution at 100 studs: 
+    * Vertical recoil at 100 studs: 
+    * Horizontal recoil at 100 studs: 
+
+    Provided to SF Security Cadets and Clearance-3.
+
+* **Five-seveN** </br>
+Semi-Automatic Handgun
+    * Magazine Capacity: 20+1
+    * Cartridge: 5.7×28mm
+    * Circular distribution at 100 studs: 
+    * Vertical recoil at 100 studs: 
+    * Horizontal recoil at 100 studs: 
+
+    Provided to SF Security Senior Guard and SF CMD Agent.
+
+* **P320** </br>
+Semi-Automatic Handgun
+    * Magazine Capacity: 10+1
+    * Cartridge: .45 ACP
+    * Circular distribution at 100 studs: 
+    * Vertical recoil at 100 studs: 
+    * Horizontal recoil at 100 studs: 
+
+    Provided to SF Security Supervisor and SF AVD Trainee.
+
+* **Model 500** </br>
+Revolver
+    * Magazine Capacity: 5
+    * Cartridge: .500 Magnum
+    * Circular distribution at 100 studs: 
+    * Vertical recoil at 100 studs: 
+    * Horizontal recoil at 100 studs: 
+
+    Provided to Clearance-X.
+
+* **SCAR-L** </br>
+Automatic Assault Rifle
+    * Magazine Capacity: 30+1
+    * Cartridge: 5.56×45mm
+    * Rate of Fire: 650 RPM
+    * Circular distribution at 100 studs: 
+    * Vertical recoil at 100 studs: 
+    * Horizontal recoil at 100 studs: 
+
+    Provided to
+
+* **SCAR-H** </br>
+Automatic Battle Rifle
+    * Magazine Capacity: 20+1
+    * Cartridge: 7.62×51mm
+    * Rate of Fire: 550 RPM
+    * Circular distribution at 100 studs: 
+    * Vertical recoil at 100 studs: 
+    * Horizontal recoil at 100 studs:
+
+    Provided to
+
+* **XM7** </br>
+Automatic Assault Rifle
+    * Magazine Capacity: 25+1
+    * Cartridge: 6.8×51mm
+    * Rate of Fire: 850 RPM
+    * Circular distribution at 100 studs: 
+    * Vertical recoil at 100 studs: 
+    * Horizontal recoil at 100 studs: 
+
+    Provided to
+
+* **AK-12** </br>
+Automatic Assault Rifle
+    * Magazine Capacity: 45+1
+    * Cartridge: 5.45×39mm
+    * Rate of Fire: 700 RPM
+    * Circular distribution at 100 studs: 
+    * Vertical recoil at 100 studs: 
+    * Horizontal recoil at 100 studs: 
+
+    Provided to
+
+ARX160
+SR-15
+XM8
+AUG A3
+
+MPX
+Vector
+MP7
+APC45
+PMX
+
+MSR
+Intervention
+M28A1
+MSG90
+SL8
+
+MG5
+M60E6
+EVOLYS
+LAMG
+
+KSG
+M870
+Supernova
+Saiga-12
+
+Flamethrower
+AT4
+FIM-92 Stinger
