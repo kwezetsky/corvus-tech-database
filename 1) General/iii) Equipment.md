@@ -102,7 +102,7 @@ Semi-Automatic Handgun
     * Vertical recoil at 100 studs: 
     * Horizontal recoil at 100 studs: 
 
-    Provided to SF Security Cadets and Clearance-3.
+    Provided to SF Security Cadets, off-duty SF Security Senior Guard, Clearance-4, and E&L Technician.
 
 * **Five-seveN** </br>
 Semi-Automatic Handgun
@@ -112,7 +112,7 @@ Semi-Automatic Handgun
     * Vertical recoil at 100 studs: 
     * Horizontal recoil at 100 studs: 
 
-    Provided to SF Security Senior Guard and SF CMD Agent.
+    Provided to SF Security Senior Guard and SF Division Trainee.
 
 * **P320** </br>
 Semi-Automatic Handgun
@@ -132,7 +132,7 @@ Revolver
     * Vertical recoil at 100 studs: 
     * Horizontal recoil at 100 studs: 
 
-    Provided to Clearance-X.
+    Provided to Clearance-O.
 
 * **SCAR-L** </br>
 Automatic Assault Rifle
@@ -143,7 +143,7 @@ Automatic Assault Rifle
     * Vertical recoil at 100 studs: 
     * Horizontal recoil at 100 studs: 
 
-    Provided to
+    Provided to SF Security Junior Guard.
 
 * **SCAR-H** </br>
 Automatic Battle Rifle
@@ -154,7 +154,7 @@ Automatic Battle Rifle
     * Vertical recoil at 100 studs: 
     * Horizontal recoil at 100 studs:
 
-    Provided to
+    Provided to SF Security Guard.
 
 * **XM7** </br>
 Automatic Assault Rifle
@@ -165,7 +165,7 @@ Automatic Assault Rifle
     * Vertical recoil at 100 studs: 
     * Horizontal recoil at 100 studs: 
 
-    Provided to
+    Provided to SF Division Trainee.
 
 * **AK-12** </br>
 Automatic Assault Rifle
@@ -176,20 +176,117 @@ Automatic Assault Rifle
     * Vertical recoil at 100 studs: 
     * Horizontal recoil at 100 studs: 
 
-    Provided to
+    Provided to SF Security Guard.
 
-ARX160
-SR-15
-XM8
-AUG A3
+* **ARX160** </br>
+Automatic Assault Rifle
+    * Magazine Capacity: 30+1
+    * Cartridge: 7.62×39mm
+    * Rate of Fire: 700 RPM
+    * Circular distribution at 100 studs: 
+    * Vertical recoil at 100 studs: 
+    * Horizontal recoil at 100 studs: 
 
-MPX
-Vector
-MP7
-APC45
-PMX
+    Provided to SF Security Senior Guard and SF Division Member (Above Trainee).
 
-MSR
+* **SR-15** </br>
+Automatic Assault Rifle
+    * Magazine Capacity: 30+1
+    * Cartridge: 5.56×45mm
+    * Rate of Fire: 750 RPM
+    * Circular distribution at 100 studs: 
+    * Vertical recoil at 100 studs: 
+    * Horizontal recoil at 100 studs: 
+
+    Provided to SF AVD Operator.
+
+* **XM8** </br>
+Automatic Assault Rifle
+    * Magazine Capacity: 100+1
+    * Cartridge: 5.56×45mm
+    * Rate of Fire: 750 RPM
+    * Circular distribution at 100 studs: 
+    * Vertical recoil at 100 studs: 
+    * Horizontal recoil at 100 studs: 
+
+    Provided to SF CMD Coordinator.
+
+* **AUG A3** </br>
+Automatic Assault Rifle
+    * Magazine Capacity: 42+1
+    * Cartridge: 5.56×45mm
+    * Rate of Fire: 720 RPM
+    * Circular distribution at 100 studs: 
+    * Vertical recoil at 100 studs: 
+    * Horizontal recoil at 100 studs: 
+
+    Provided to SF CMD Agent.
+
+* **MPX** </br>
+Automatic Submachine Gun
+    * Magazine Capacity: 30+1
+    * Cartridge: 9×19mm
+    * Rate of Fire: 850 RPM
+    * Circular distribution at 100 studs: 
+    * Vertical recoil at 100 studs: 
+    * Horizontal recoil at 100 studs: 
+
+    Provided to SF Security Junior Guard.
+
+* **Vector** </br>
+Automatic Submachine Gun
+    * Magazine Capacity: 25+1
+    * Cartridge: 10×25mm
+    * Rate of Fire: 1200 RPM
+    * Circular distribution at 100 studs: 
+    * Vertical recoil at 100 studs: 
+    * Horizontal recoil at 100 studs: 
+
+    Provided to SF CMD Agent.
+
+* **MP7** </br>
+Automatic Personal Defense Weapon
+    * Magazine Capacity: 30+1
+    * Cartridge: 4.6×30mm
+    * Rate of Fire: 950 RPM
+    * Circular distribution at 100 studs: 
+    * Vertical recoil at 100 studs: 
+    * Horizontal recoil at 100 studs: 
+
+    Provided to SF Security Guard.
+
+* **APC45** </br>
+Automatic Submachine Gun
+    * Magazine Capacity: 25+1
+    * Cartridge: .45 ACP
+    * Rate of Fire: 1080 RPM
+    * Circular distribution at 100 studs: 
+    * Vertical recoil at 100 studs: 
+    * Horizontal recoil at 100 studs: 
+
+    Provided to SF AVD Operator.
+
+* **PMX** </br>
+Automatic Submachine Gun
+    * Magazine Capacity: 30+1
+    * Cartridge: 9×19mm
+    * Rate of Fire: 900 RPM
+    * Circular distribution at 100 studs: 
+    * Vertical recoil at 100 studs: 
+    * Horizontal recoil at 100 studs: 
+
+    Provided to SF CMD Trainee.
+
+* **MSR** </br>
+Bolt-action Sniper Rifle
+    * Magazine Capacity: 10+1
+    * Cartridge: .338
+    * Circular distribution at 100 studs: 
+    * Vertical recoil at 100 studs: 
+    * Horizontal recoil at 100 studs: 
+
+    Provided to SF ACD Operative.
+
 Intervention
 M28A1
 MSG90
