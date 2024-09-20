@@ -371,54 +371,38 @@ Automatic Light Machine Gun
 
     Provided to SF Security Senior Guard.
 
-
-KSG
-M870
-Supernova
-Saiga-12
-
-Flamethrower
-AT4
-FIM-92 Stinger
-
-| Name           | Type                              |
-| -------------- | --------------------------------- |
-| G19            | Semi-automatic Handgun            |
-| Five-seveN     | Semi-automatic Handgun            |
-| P320           | Semi-automatic Handgun            |
-| Model 500      | Revolver                          |
-
-| SCAR-L         | Automatic Assault Rifle           |
-| SCAR-H         | Automatic Assault Rifle           |
-| XM7            | Automatic Assault Rifle           |
-| AK-12          | Automatic Assault Rifle           |
-| ARX160         | Automatic Assault Rifle           |
-| SR-15          | Automatic Assault Rifle           |
-| XM8            | Automatic Assault Rifle           |
-| AUG A3         | Automatic Assault Rifle           |
-
-| MPX            | Automatic Submachine Gun          |
-| Vector         | Automatic Submachine Gun          |
-| MP7            | Automatic Personal Defense Weapon |
-| APC45          | Automatic Submachine Gun          |
-| PMX            | Automatic Submachine Gun          |
-
-| MSR            | Bolt-action Sniper Rifle           |
-| Intervention    | Bolt-action Sniper Rifle           |
-| M28A1          | Semi-automatic Anti-Material Rifle |
-| MSG90          | Semi-automatic Marksman Rifle |
-| SL8            | Semi-automatic marksman Rifle |
-
-| MG5            | Automatic General-Purpose Machine Gun |
-| M60E6          | Automatic General-Purpose Machine Gun |
-| EVOLYS         | Automatic Light Machine Gun |
-| LAMG           | Automatic Light Machine Gun |
-
-| KSG            | Pump-action Shotgun |
-| M870           | Pump-action Shotgun |
-| Supernova      | Pump-action Shotgun |
-| Saiga-12       | Semi-automatic Shotgun |
-
-| Flamethrower   | Flamethrower |
-| AT4            | Anti-tank Launcher |
-| FIM-92 Stinger | Homing Missile Anti-Air Launcher |
+| Name           | Type                                  | Cartridge   | Capacity | RPM  | Circ. Dist. | X-rec. | Y-rec. | Permissions |
+| -------------- | ------------------------------------- | ----------- | -------- | ---- | ----------- | ------ | ------ | ----------- |
+| G19            | Semi-automatic Handgun                | 9×19mm      | 15+1     | N/A  |             |        |        |             |
+| Five-seveN     | Semi-automatic Handgun                | 5.7×28mm    | 20+1     | N/A  |             |        |        |             |
+| P320           | Semi-automatic Handgun                | .45 ACP     | 10+1     | N/A  |             |        |        |             |
+| Model 500      | Revolver                              | .500 Magnum | 5        | N/A  |             |        |        |             |
+| SCAR-L         | Automatic Assault Rifle               | 5.56×45mm   | 30+1     | 650  |             |        |        |             |
+| SCAR-H         | Automatic Battle Rifle                | 7.62×51mm   | 20+1     | 550  |             |        |        |             |
+| XM7            | Automatic Assault Rifle               | 6.8×51mm    | 25+1     | 850  |             |        |        |             |
+| AK-12          | Automatic Assault Rifle               | 5.45×39mm   | 45+1     | 700  |             |        |        |             |
+| ARX160         | Automatic Assault Rifle               | 7.62×39mm   | 30+1     | 700  |             |        |        |             |
+| SR-15          | Automatic Assault Rifle               | 5.56×45mm   | 30+1     | 750  |             |        |        |             |
+| XM8            | Automatic Assault Rifle               | 5.56×45mm   | 100+1    | 750  |             |        |        |             |
+| AUG A3         | Automatic Assault Rifle               | 5.56×45mm   | 42+1     | 720  |             |        |        |             |
+| MPX            | Automatic Submachine Gun              | 9×19mm      | 30+1     | 850  |             |        |        |             |
+| Vector         | Automatic Submachine Gun              | 10×25mm     | 25+1     | 1200 |             |        |        |             |
+| MP7            | Automatic Personal Defense Weapon     | 4.6×30mm    | 30+1     | 950  |             |        |        |             |
+| APC45          | Automatic Submachine Gun              | .45 ACP     | 25+1     | 1080 |             |        |        |             |
+| PMX            | Automatic Submachine Gun              | 9×19mm      | 30+1     | 900  |             |        |        |             |
+| MSR            | Bolt-action Sniper Rifle              | .338        | 10+1     | N/A  |             |        |        |             |
+| Intervention   | Bolt-action Sniper Rifle              | .408        | 7+1      | N/A  |             |        |        |             |
+| M28A1          | Semi-automatic Anti-Material Rifle    | .50 BMG     | 5+1      | N/A  |             |        |        |             |
+| MSG90          | Semi-automatic Marksman Rifle         | 7.62×51mm   | 20+1     | N/A  |             |        |        |             |
+| SL8            | Semi-automatic marksman Rifle         | .223        | 30+1     | N/A  |             |        |        |             |
+| MG5            | Automatic General-Purpose Machine Gun | 7.62×51mm   | 50+1     | 720  |             |        |        |             |
+| M60E6          | Automatic General-Purpose Machine Gun | 7.62×51mm   | 80+1     | 650  |             |        |        |             |
+| EVOLYS         | Automatic Light Machine Gun           | 5.56×45mm   | 100+1    | 750  |             |        |        |             |
+| LAMG           | Automatic Light Machine Gun           | 5.56×45mm   | 120+1    | 600  |             |        |        |             |
+| KSG            | Pump-action Shotgun                   | 12 gauge    | 14+1     | N/A  |             |        |        |             |
+| M870           | Pump-action Shotgun                   | 12 gauge    | 7+1      | N/A  |             |        |        |             |
+| Supernova      | Pump-action Shotgun                   | 12 gauge    | 4+1      | N/A  |             |        |        |             |
+| Saiga-12       | Semi-automatic Shotgun                | 12 gauge    | 12+1     | N/A  |             |        |        |             |
+| Flamethrower   | Flamethrower                          | Diesel      | 2 min    | N/A  |             |        |        |             |
+| AT4            | Disposable Anti-tank Launcher         | HEAT        | 1        | N/A  |             |        |        |             |
+| FIM-92 Stinger | Man-portable Air-defense System       | HE-FRAG     | 1        | N/A  |             |        |        |             |
