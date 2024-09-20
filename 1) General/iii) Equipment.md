@@ -134,7 +134,7 @@ Revolver
 
     Provided to Clearance-O.
 
-* **SCAR-L** </br>
+* **SCAR-L* </br>
 Automatic Assault Rifle
     * Magazine Capacity: 30+1
     * Cartridge: 5.56×45mm
@@ -287,15 +287,90 @@ Bolt-action Sniper Rifle
 
     Provided to SF ACD Operative.
 
-Intervention
-M28A1
-MSG90
-SL8
+* **Intervention** </br>
+Bolt-action Sniper Rifle
+    * Magazine Capacity: 7+1
+    * Cartridge: .408
+    * Circular distribution at 100 studs: 
+    * Vertical recoil at 100 studs: 
+    * Horizontal recoil at 100 studs: 
 
-MG5
-M60E6
-EVOLYS
-LAMG
+    Provided to SF ACD Sergeant.
+
+* **M28A1** </br>
+Semi-Automatic Anti-Material Rifle
+    * Magazine Capacity: 5+1
+    * Cartridge: .50 BMG
+    * Circular distribution at 100 studs: 
+    * Vertical recoil at 100 studs: 
+    * Horizontal recoil at 100 studs: 
+
+    Provided to SF Security Captain.
+
+* **MSG90** </br>
+Semi-Automatic Marksman Rifle
+    * Magazine Capacity: 20+1
+    * Cartridge: 7.62×51mm
+    * Circular distribution at 100 studs: 
+    * Vertical recoil at 100 studs: 
+    * Horizontal recoil at 100 studs: 
+
+    Provided to SF ACD Trainee.
+
+* **SL8** </br>
+Semi-Automatic Marksman Rifle
+    * Magazine Capacity: 30+1
+    * Cartridge: .223
+    * Circular distribution at 100 studs: 
+    * Vertical recoil at 100 studs: 
+    * Horizontal recoil at 100 studs: 
+
+    Provided to SF Security Guard.
+
+* **MG5** </br>
+Automatic General-Purpose Machine Gun
+    * Magazine Capacity: 50+1
+    * Cartridge: 7.62×51mm
+    * Rate of Fire: 720 RPM
+    * Circular distribution at 100 studs: 
+    * Vertical recoil at 100 studs: 
+    * Horizontal recoil at 100 studs: 
+
+    Provided to SF ACD Operative.
+
+* **M60E6** </br>
+Automatic General-Purpose Machine Gun
+    * Magazine Capacity: 80+1
+    * Cartridge: 7.62×51mm
+    * Rate of Fire: 650 RPM
+    * Circular distribution at 100 studs: 
+    * Vertical recoil at 100 studs: 
+    * Horizontal recoil at 100 studs: 
+
+    Provided to SF ACD Sergeant.
+
+* **EVOLYS** </br>
+Automatic Light Machine Gun
+    * Magazine Capacity: 100+1
+    * Cartridge: 5.56×45mm
+    * Rate of Fire: 750 RPM
+    * Circular distribution at 100 studs: 
+    * Vertical recoil at 100 studs: 
+    * Horizontal recoil at 100 studs: 
+
+    Provided to SF Security Supervisor.
+
+* **LAMG** </br>
+Automatic Light Machine Gun
+    * Magazine Capacity: 120+1
+    * Cartridge: 5.56×45mm
+    * Rate of Fire: 600 RPM
+    * Circular distribution at 100 studs: 
+    * Vertical recoil at 100 studs: 
+    * Horizontal recoil at 100 studs: 
+
+    Provided to SF Security Senior Guard.
+
 
 KSG
 M870
@@ -305,3 +380,45 @@ Saiga-12
 Flamethrower
 AT4
 FIM-92 Stinger
+
+| Name           | Type                              |
+| -------------- | --------------------------------- |
+| G19            | Semi-Automatic Handgun            |
+| Five-seveN     | Semi-Automatic Handgun            |
+| P320           | Semi-Automatic Handgun            |
+| Model 500      | Revolver                          |
+
+| SCAR-L         | Automatic Assault Rifle           |
+| SCAR-H         | Automatic Assault Rifle           |
+| XM7            | Automatic Assault Rifle           |
+| AK-12          | Automatic Assault Rifle           |
+| ARX160         | Automatic Assault Rifle           |
+| SR-15          | Automatic Assault Rifle           |
+| XM8            | Automatic Assault Rifle           |
+| AUG A3         | Automatic Assault Rifle           |
+
+| MPX            | Automatic Submachine Gun          |
+| Vector         | Automatic Submachine Gun          |
+| MP7            | Automatic Personal Defense Weapon |
+| APC45          | Automatic Submachine Gun          |
+| PMX            | Automatic Submachine Gun          |
+
+| MSR            | Bolt-action Sniper Rifle |
+| Intervention   | Bolt-action Sniper Rifle |
+| M28A1          | Semi-automatic Anti-Material Rifle |
+| MSG90          | Semi-automatic Marksman Rifle |
+| SL8            | Semi-automatic marksman Rifle |
+
+| MG5            |
+| M60E6          |
+| EVOLYS         |
+| LAMG           |
+
+| KSG            |
+| M870           |
+| Supernova      |
+| Saiga-12       |
+
+| Flamethrower   |
+| AT4            |
+| FIM-92 Stinger |
