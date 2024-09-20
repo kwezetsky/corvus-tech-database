@@ -100,32 +100,38 @@ The `Broom` is available for everyone at janitorial closets.
 | Five-seveN     | Semi-automatic Handgun                | 5.7×28mm    | 20+1     | N/A  |             |        |        | SF Security Senior Guard, SF Division Trainee                                  |
 | P320           | Semi-automatic Handgun                | .45 ACP     | 10+1     | N/A  |             |        |        | SF Security Supervisor, SF AVD Trainee                                         |
 | Model 500      | Revolver                              | .500 Magnum | 5        | N/A  |             |        |        | SF Security Captain, Clearance-X                                               |
+</br>
 | SCAR-L         | Automatic Assault Rifle               | 5.56×45mm   | 30+1     | 650  |             |        |        | SF Security Junior Guard                                                       |
 | SCAR-H         | Automatic Battle Rifle                | 7.62×51mm   | 20+1     | 550  |             |        |        | SF Security Guard                                                              |
-| XM7            | Automatic Assault Rifle               | 6.8×51mm    | 25+1     | 850  |             |        |        | SF Division Trainee                                                            |
 | AK-12          | Automatic Assault Rifle               | 5.45×39mm   | 45+1     | 700  |             |        |        | SF Security Guard                                                              |
+| XM7            | Automatic Assault Rifle               | 6.8×51mm    | 25+1     | 850  |             |        |        | SF Division Trainee                                                            |
 | ARX160         | Automatic Assault Rifle               | 7.62×39mm   | 30+1     | 700  |             |        |        | SF Security Senior Guard, SF Division Non-Trainee                              |
 | SR-15          | Automatic Assault Rifle               | 5.56×45mm   | 30+1     | 750  |             |        |        | SF AVD Operator                                                                |
-| XM8            | Automatic Assault Rifle               | 5.56×45mm   | 100+1    | 750  |             |        |        | SF CMD Coordinator                                                             |
 | AUG A3         | Automatic Assault Rifle               | 5.56×45mm   | 42+1     | 720  |             |        |        | SF CMD Agent                                                                   |
+| XM8            | Automatic Assault Rifle               | 5.56×45mm   | 100+1    | 750  |             |        |        | SF CMD Coordinator                                                             |
+</br>
 | MPX            | Automatic Submachine Gun              | 9×19mm      | 30+1     | 850  |             |        |        | SF Security Junior Guard                                                       |
-| Vector         | Automatic Submachine Gun              | 10×25mm     | 25+1     | 1200 |             |        |        | SF CMD Agent                                                                   |
 | MP7            | Automatic Personal Defense Weapon     | 4.6×30mm    | 30+1     | 950  |             |        |        | SF Security Guard                                                              |
-| APC45          | Automatic Submachine Gun              | .45 ACP     | 25+1     | 1080 |             |        |        | SF AVD Operator                                                                |
 | PMX            | Automatic Submachine Gun              | 9×19mm      | 30+1     | 900  |             |        |        | SF CMD Trainee                                                                 |
+| Vector         | Automatic Submachine Gun              | 10×25mm     | 25+1     | 1200 |             |        |        | SF CMD Agent                                                                   |
+| APC45          | Automatic Submachine Gun              | .45 ACP     | 25+1     | 1080 |             |        |        | SF AVD Operator                                                                |
+</br>
+| SL8            | Semi-automatic marksman Rifle         | .223        | 30+1     | N/A  |             |        |        | SD Security Guard                                                              |
+| MSG90          | Semi-automatic Marksman Rifle         | 7.62×51mm   | 20+1     | N/A  |             |        |        | SF ACD Trainee                                                                 |
 | MSR            | Bolt-action Sniper Rifle              | .338        | 10+1     | N/A  |             |        |        | SF ACD Operative                                                               |
 | Intervention   | Bolt-action Sniper Rifle              | .408        | 7+1      | N/A  |             |        |        | SF ACD Sergeant                                                                |
 | M28A1          | Semi-automatic Anti-Material Rifle    | .50 BMG     | 5+1      | N/A  |             |        |        | SF Security Captain                                                            |
-| MSG90          | Semi-automatic Marksman Rifle         | 7.62×51mm   | 20+1     | N/A  |             |        |        | SF ACD Trainee                                                                 |
-| SL8            | Semi-automatic marksman Rifle         | .223        | 30+1     | N/A  |             |        |        | SD Security Guard                                                              |
+</br>
+| LAMG           | Automatic Light Machine Gun           | 5.56×45mm   | 120+1    | 600  |             |        |        | SF Security Senior Guard                                                       |
+| EVOLYS         | Automatic Light Machine Gun           | 5.56×45mm   | 100+1    | 750  |             |        |        | SF Security Supervisor                                                         |
 | MG5            | Automatic General-Purpose Machine Gun | 7.62×51mm   | 50+1     | 720  |             |        |        | SF ACD Operative                                                               |
 | M60E6          | Automatic General-Purpose Machine Gun | 7.62×51mm   | 80+1     | 650  |             |        |        | SF ACD Sergeant                                                                |
-| EVOLYS         | Automatic Light Machine Gun           | 5.56×45mm   | 100+1    | 750  |             |        |        | SF Security Supervisor                                                         |
-| LAMG           | Automatic Light Machine Gun           | 5.56×45mm   | 120+1    | 600  |             |        |        | SF Security Senior Guard                                                       |
+</br>
 | KSG            | Pump-action Shotgun                   | 12 gauge    | 14+1     | N/A  |             |        |        | SF CMD Agent                                                                   |
 | M870           | Pump-action Shotgun                   | 12 gauge    | 7+1      | N/A  |             |        |        | SF Security Guard                                                              |
 | Supernova      | Pump-action Shotgun                   | 12 gauge    | 4+1      | N/A  |             |        |        | SF ACD Operative                                                               |
 | Saiga-12       | Semi-automatic Shotgun                | 12 gauge    | 12+1     | N/A  |             |        |        | SF ACD Supervisor                                                              |
+</br>
 | Flamethrower   | Flamethrower                          | Diesel      | 2 min    | N/A  |             |        |        | SF ACD Operative                                                               |
 | AT4            | Disposable Anti-tank Launcher         | HEAT        | 1        | N/A  |             |        |        | SF AVD Trainee                                                                 |
 | FIM-92 Stinger | Man-portable Air-defense System       | HE-FRAG     | 1        | N/A  |             |        |        | SF AVD Operator                                                                |

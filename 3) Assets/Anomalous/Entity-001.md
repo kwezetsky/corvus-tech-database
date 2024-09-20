@@ -1,12 +1,12 @@
 # Entity-001
 
-> All information on Entity-001 is restricted only to the Board of Directors and the Founder.
+> Information on Entity-001 is restricted only to the Board of Directors and the Founder.
 
-**Common Name:** [CLASSIFIED]
+**Common Name:** Vihram
 
-**Containment Class:** [CLASSIFIED]
+**Containment Class:** 5
 
-**Danger Class:** [CLASSIFIED]
+**Danger Class:** 5
 
 ## Description
 [CLASSIFIED]

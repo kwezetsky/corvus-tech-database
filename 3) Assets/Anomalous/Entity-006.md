@@ -4,11 +4,11 @@
 
 **Common Name:** [UNAVAILABLE]
 
-**Containment Class:** 
+**Containment Class:** 1
 
-**Danger Class:** 
+**Danger Class:** 2
 
 ## Description
-
+Entity-006 is a rectangular wooden box with a hinged lid, approximately 1.5 * 1.0 * 1.0 studs in size. 
 
 ## Containment Procedure
