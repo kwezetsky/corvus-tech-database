@@ -29,7 +29,7 @@ The `Broom` is available for everyone at janitorial closets.
 * **Tranquilliser Rifle**
 * **Tranquilliser Pistol**
 * **Tracking Device**
-* **Surveillance Camera
+* **Surveillance Camera**
 * **Food - Plants**
 * **Food - Meat**
 * **Food - Tranq Plants**
@@ -383,9 +383,9 @@ FIM-92 Stinger
 
 | Name           | Type                              |
 | -------------- | --------------------------------- |
-| G19            | Semi-Automatic Handgun            |
-| Five-seveN     | Semi-Automatic Handgun            |
-| P320           | Semi-Automatic Handgun            |
+| G19            | Semi-automatic Handgun            |
+| Five-seveN     | Semi-automatic Handgun            |
+| P320           | Semi-automatic Handgun            |
 | Model 500      | Revolver                          |
 
 | SCAR-L         | Automatic Assault Rifle           |
@@ -403,22 +403,22 @@ FIM-92 Stinger
 | APC45          | Automatic Submachine Gun          |
 | PMX            | Automatic Submachine Gun          |
 
-| MSR            | Bolt-action Sniper Rifle |
-| Intervention   | Bolt-action Sniper Rifle |
+| MSR            | Bolt-action Sniper Rifle           |
+| Intervention    | Bolt-action Sniper Rifle           |
 | M28A1          | Semi-automatic Anti-Material Rifle |
 | MSG90          | Semi-automatic Marksman Rifle |
 | SL8            | Semi-automatic marksman Rifle |
 
-| MG5            |
-| M60E6          |
-| EVOLYS         |
-| LAMG           |
+| MG5            | Automatic General-Purpose Machine Gun |
+| M60E6          | Automatic General-Purpose Machine Gun |
+| EVOLYS         | Automatic Light Machine Gun |
+| LAMG           | Automatic Light Machine Gun |
 
-| KSG            |
-| M870           |
-| Supernova      |
-| Saiga-12       |
+| KSG            | Pump-action Shotgun |
+| M870           | Pump-action Shotgun |
+| Supernova      | Pump-action Shotgun |
+| Saiga-12       | Semi-automatic Shotgun |
 
-| Flamethrower   |
-| AT4            |
-| FIM-92 Stinger |
+| Flamethrower   | Flamethrower |
+| AT4            | Anti-tank Launcher |
+| FIM-92 Stinger | Homing Missile Anti-Air Launcher |
