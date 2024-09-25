@@ -60,26 +60,26 @@ The Reserve consists of numerous biomes, each suiting different species of Asset
 Isle Malossa, while a small island, is where the Company has constructed a specialised underground facility with the purpose of containing our highly dangerous Entities with the most complex containment procedures.
 
 ## Area Directives
-### Directive Stillwater
+### Directive: Standard
 Status within the Research Area is normal, and all operations may be conducted as per usual.
 
-### Directive [caution]
+### Directive: Caution
 There is likelihood that an Asset breach has occured/will occur, or a hostile attack on the Research Area.
 
-### Directive Emberwave
+### Directive: Riot
 Test Subjects have begun rioting against the Company.
 
-### Directive [breach/asset raid]
+### Directive: Breach
 An Anomalous Asset has breached containment, or a Prehistoric Asset has made its way deep into Isle Viscera.
 
-### Directive [raid]
+### Directive: Raid
 Hostile combatants are conducting an attack on the Research Area.
 
-### Directive [TS lockdown]
+### Directive: TSC Lockdown
 Test Subjects must remain within their cell blocks which will be closed and locked.
 
-### Directive [site-wide lockdown]
+### Directive: Area-wide Lockdown
 All personnel must remain within their designated departmental spawn areas, and no personnel may be outdoors during the lockdown.
 
-### Directive [sad]
+### Directive: Culling
 Selected SF combatants are deployed to cull the population of Assets on Isle Coranima.

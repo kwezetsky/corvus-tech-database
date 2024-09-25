@@ -30,6 +30,8 @@ Trainee Actors have just passed the AD application and receive basic information
 </p>
 
 ## Information
+The Anomaly Actors are responsible for acting as the Company's sentient Anomalous Assets, or Entities. Anomaly Actors are significantly more skilled than regular members of the Acting Department, and thus are also held to much higher standards.
+
 Despite being under the Acting Department, AA is much more separated from AD compared to other departmental divisions. Individuals could join and be members of AA up to the rank of Senior Anomaly without needing to be a member of AD. 
 
 ## Ranking Structure
