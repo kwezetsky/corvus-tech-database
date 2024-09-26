@@ -54,27 +54,27 @@ The Asset Containment Division is comprised of skilled individuals who carry the
 
 The Armoured Vehicles Division is capable of skillfully operating every single vehicle owned by the company, including vehicles with extra firepower that are utilised to combat strong enemy forces.
 
-### Combat Medics Division
+### Combat Support Division
 
 <p align="center">
-  <img src="/../main/Logos%20%26%20Emblems/corvus_cmd.png" height="200" width="200"/></center>
+  <img src="/../main/Logos%20%26%20Emblems/corvus_csd.png" height="200" width="200"/></center>
 </p>
 
-The Combat Medics Division is responsible for providing medical support to SF personnel during combat.
+The Combat Support Division plays a supportive role to SF personnel during combat by providing medical assistance, ammunition, and delivering suppressive fire.
 
 ### Divisional Ranking Structure
 
-#### **[SCpt] ACD Captain / AVD Captain / CMD Captain**
+#### **[SCpt] ACD Captain / AVD Captain / CSD Captain**
 Leaders of each division, 1st-in-command of divisional operations.
 
-#### **[SSupr] ACD Supervisor / AVD Supervisor / CMD Supervisor**
+#### **[SSupr] ACD Supervisor / AVD Supervisor / CSD Supervisor**
 Divisional supervisors, 2nd-in-command of divisional operations.
 
-#### **[SSrG] ACD Sergeant / AVD Specialist / CMD Coordinator**
+#### **[SSrG] ACD Sergeant / AVD Specialist / CSD Coordinator**
 Senior division members, mentor lower-ranking division members and host divisional trainings alongside Supervisors.
 
-#### **[SG] ACD Operative / AVD Operator / CMD Agent**
+#### **[SG] ACD Operative / AVD Operator / CSD Agent**
 Main divisional members.
 
-#### **[SJrG] ACD Trainee / AVD Trainee / CMD Trainee**
+#### **[SJrG] ACD Trainee / AVD Trainee / CSD Trainee**
 Individuals who have passed entry into a division, and undergo training for specific skills within their respective division.

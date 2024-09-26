@@ -42,23 +42,24 @@
 
 1) **Maturity and Professionalism:**
 * a) All employees must be mature and professional while conducting their duties.
-* b) Employees may not disrupt nor intrude on each other's duties.
+* b) Employees may not disrupt nor intrude upon each other's duties.
 * c) Employees are not required to utilise grammar in-game unless stated otherwise by individual departmental guidelines.
 
 2) **Impersonation:**
-* a) Employees may not impersonate being a member of a department/division that they are not.
+* a) Employees may not impersonate being a member of a department/division that they are not a member of in actuality
 * b) Employees may not assume authority over others when they do not have the right nor authority to do so.
 
 3) **Trespassing:**
-* a) Employees may not enter any area designated to be restricted without proper clearance or authorisation to be in said area.
+* a) Without the proper clearance, employees may not enter any area designated to be restricted to them, unless provided authorisation by individuals who hold the power to provide it.
 
 4) **Firearms and Weapons:**
-* a) Non-SF personnel may not equip nor utilise firearms/weapons unless in self-defense against immediate threat from a:
+* a) Non-SF personnel may not equip nor utilise firearms/weaponry unless in self-defense against immediate threat from a:
   * i) Hostile Test Subject
   * ii) Hostile Combatant
   * iii) Individual infected by biohazardous anomaly
   * iv) Aggressive Compsognathus longipes
-* b) No employees may utilise firearms/weapons to harm nor kill any Anomalous Asset. 
+* b) No employees may utilise firearms/weapons to harm nor kill any Anomalous Asset.
+  * i) The only exception to this rule is Entity-003, only when authorised.
 * c) SF personnel have additional regulations on firearm and weapon usage, which are found in the SF Handbook.
 
 5) **Insubordination:**

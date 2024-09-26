@@ -107,13 +107,13 @@ The `Broom` is available for everyone at janitorial closets.
 | XM7            | Automatic Assault Rifle               | 6.8×51mm    | 25+1     | 850  |             |        |        | SF Division Trainee                                                            |
 | ARX160         | Automatic Assault Rifle               | 7.62×39mm   | 30+1     | 700  |             |        |        | SF Security Senior Guard, SF Division Non-Trainee                              |
 | SR-15          | Automatic Assault Rifle               | 5.56×45mm   | 30+1     | 750  |             |        |        | SF AVD Operator                                                                |
-| AUG A3         | Automatic Assault Rifle               | 5.56×45mm   | 42+1     | 720  |             |        |        | SF CMD Agent                                                                   |
-| XM8            | Automatic Assault Rifle               | 5.56×45mm   | 100+1    | 750  |             |        |        | SF CMD Coordinator                                                             |
+| AUG A3         | Automatic Assault Rifle               | 5.56×45mm   | 42+1     | 720  |             |        |        | SF CSD Agent                                                                   |
+| XM8            | Automatic Assault Rifle               | 5.56×45mm   | 100+1    | 750  |             |        |        | SF CSD Coordinator                                                             |
 </br>
 | MPX            | Automatic Submachine Gun              | 9×19mm      | 30+1     | 850  |             |        |        | SF Security Junior Guard                                                       |
 | MP7            | Automatic Personal Defense Weapon     | 4.6×30mm    | 30+1     | 950  |             |        |        | SF Security Guard                                                              |
-| PMX            | Automatic Submachine Gun              | 9×19mm      | 30+1     | 900  |             |        |        | SF CMD Trainee                                                                 |
-| Vector         | Automatic Submachine Gun              | 10×25mm     | 25+1     | 1200 |             |        |        | SF CMD Agent                                                                   |
+| PMX            | Automatic Submachine Gun              | 9×19mm      | 30+1     | 900  |             |        |        | SF CSD Trainee                                                                 |
+| Vector         | Automatic Submachine Gun              | 10×25mm     | 25+1     | 1200 |             |        |        | SF CSD Agent                                                                   |
 | APC45          | Automatic Submachine Gun              | .45 ACP     | 25+1     | 1080 |             |        |        | SF AVD Operator                                                                |
 </br>
 | SL8            | Semi-automatic marksman Rifle         | .223        | 30+1     | N/A  |             |        |        | SD Security Guard                                                              |
@@ -127,7 +127,7 @@ The `Broom` is available for everyone at janitorial closets.
 | MG5            | Automatic General-Purpose Machine Gun | 7.62×51mm   | 50+1     | 720  |             |        |        | SF ACD Operative                                                               |
 | M60E6          | Automatic General-Purpose Machine Gun | 7.62×51mm   | 80+1     | 650  |             |        |        | SF ACD Sergeant                                                                |
 </br>
-| KSG            | Pump-action Shotgun                   | 12 gauge    | 14+1     | N/A  |             |        |        | SF CMD Agent                                                                   |
+| KSG            | Pump-action Shotgun                   | 12 gauge    | 14+1     | N/A  |             |        |        | SF CSD Agent                                                                   |
 | M870           | Pump-action Shotgun                   | 12 gauge    | 7+1      | N/A  |             |        |        | SF Security Guard                                                              |
 | Supernova      | Pump-action Shotgun                   | 12 gauge    | 4+1      | N/A  |             |        |        | SF ACD Operative                                                               |
 | Saiga-12       | Semi-automatic Shotgun                | 12 gauge    | 12+1     | N/A  |             |        |        | SF ACD Supervisor                                                              |
