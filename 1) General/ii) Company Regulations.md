@@ -14,17 +14,17 @@
 * SF : Security Forces (personnel)
 * ACD : Asset Containment Division (personnel)
 * AVD : Armoured Vehicles Division (personnel)
-* CMD : Combat Medics Division (personnel)
+* CSD : Combat Support Division (personnel)
 * R&I : Research & Innovation (personnel)
 * M&V : Medical & Veterinary (personnel)
 * E&L : Engineering & Logistics (personnel)
 * AD : Acting Department
 * AA : Anomaly Actors
 
-### Section 1: General Regulations
+### Section 1: General
 > The following section contains regulations that apply to all players, including individuals in the group ranked TS up to the Founder, as well as individuals not within the group.
 
-1) Whilst on the ROBLOX platform, players must abide by the ROBLOX ToS
+1) Whilst on the ROBLOX platform, players must abide by the ROBLOX ToS.
 
 2) Players may not abuse bugs found within the game to obtain an unfair advantage over others. All bugs that are found must be reported to the Founder.
 
@@ -36,22 +36,24 @@
 
 6) Players who have permissions to edit and configure the main group or departmental groups may not utilise said permissions with ill intent, such as randomly demoting or exiling players.
 
-### Section 2: Code of Conduct
+7) Players may not attempt to exploit loopholes within the regulations. Possible loopholes must be reported to the Founder.
+
+### Section 2: Employees
 > The following section contains regulations that apply to Company employees, meaning individuals ranked "Intern" or above within the main group.
-> Employees in violation of the CoC will be subject to legislative punishment.
+> Employees in violation of these regulations will be subject to legislative punishment.
 
 1) **Maturity and Professionalism:**
-* a) All employees must be mature and professional while conducting their duties.
-* b) Employees may not disrupt nor intrude upon each other's duties.
-* c) Employees are not required to utilise grammar in-game unless stated otherwise by individual departmental guidelines.
-* d) Employees may not flood the radio with unnecessary chatter, and must maintain radio silence when instructed. 
+* a) Employees must display maturity and professionalism whilst conducting their respective duties.
+* b) Employees are not required to utilise grammar in-game unless instructed otherwise by superiors or individual departmental guidelines.
+* c) Employees may not use the radio for unnecessary chatter, and must maintain radio silence when instructed. 
 
 2) **Duties:**
 * a) Employees may not abandon their duties nor desert their posts when on respective department teams.
 * b) Employees are only considered off-duty when on the "Corvus Technologies" team.
+* c) Employees may not disrupt nor intrude upon each other's duties.
 
 3) **Impersonation:**
-* a) Employees may not impersonate being a member of a department/division that they are not a member of in actuality
+* a) Employees may not impersonate being a member of a department/division that they are not, in actuality, a member of.
 * b) Employees may not assume authority over others when they do not have the right nor authority to do so.
 
 4) **Trespassing:**
@@ -59,14 +61,12 @@
 * b) Employees that enter a restricted area unintentionally are required to exit the area as soon as possible, and may not remain within it.
 
 5) **Firearms and Weapons:**
-* a) Non-SF personnel may not equip nor utilise firearms/weaponry unless in self-defense against immediate threat from a:
-  * i) Hostile Test Subject
-  * ii) Hostile Combatant
+* a) Non-SF personnel may not freely equip nor utilise firearms/weaponry unless in self-defense against immediate threat from a:
+  * i) Test Subject
+  * ii) Hostile combatant
   * iii) Individual infected by biohazardous anomaly
   * iv) Aggressive Compsognathus longipes
-* b) No employees may utilise firearms/weapons to harm nor kill any Anomalous Asset.
-  * i) The only exception to this rule is Entity-003, only when authorised.
-* c) SF personnel have additional regulations on firearm and weapon usage, which are found in the SF Handbook.
+* b) Employees may not harm one another in any way.
 
 6) **Insubordination:**
 * a) Employees must obey all orders given to them by those above them in the chain of command.
@@ -83,9 +83,15 @@
 * d) Employees may not hit any other beings with vehicles.
 
 9) **Treachery:**
-* a) Employees may not assist TS in violating regulations.
+* a) TS may not be assisted in any way by company employees, except for TS actively participating in a test.
+* b) Employees may not assist TS in violating any regulation.
+* c) Employees may not assist hostile combatants in any way.
 
-### Section 3: Test Subject Regulations:
+10) **Departments:**
+* a) Employees may not be in more than 2 departments.
+  * i) AD and AA are exempt from the departmental limit.
+
+### Section 3: Test Subjects
 > The following section contains regulations that apply to Test Subjects.
 > These regulations are to be enforced by Security Forces personnel.
 
