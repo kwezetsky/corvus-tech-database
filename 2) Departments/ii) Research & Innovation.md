@@ -7,20 +7,20 @@
 ## Information
 
 ## Ranking Structure
-### [C-O] Research Overseer
+**[C-O] Research Overseer**</br>
 
-### [C-A] Head Innovator
+**[C-A] Head Innovator**</br>
 
-### [C-4] Supervisory Innovator
+**[C-4] Supervisory Innovator**</br>
 
-### [C-3] Innovator
+**[C-3] Innovator**</br>
 
-### [C-3] Senior Researcher
+**[C-3] Senior Researcher**</br>
 
-### [C-2] Researcher
+**[C-2] Researcher**</br>
 
-### [C-2] Junior Researcher
+**[C-2] Junior Researcher**</br>
 
-### [C-1] Probationary Researcher
+**[C-1] Probationary Researcher**</br>
 
-### [Intern] Research Entrant
+**[Intern] Research Entrant**</br>

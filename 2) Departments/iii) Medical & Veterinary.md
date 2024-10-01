@@ -7,20 +7,20 @@
 ## Information
 
 ## Ranking Structure
-### [C-O] Medical Overseer
+**[C-O] Medical Overseer**</br>
 
-### [C-A] Lead Specialist
+**[C-A] Lead Specialist**</br>
 
-### [C-4] Specialist
+**[C-4] Specialist**</br>
 
-### [C-3] Senior Medical Officer
+**[C-3] Senior Medical Officer**</br>
 
-### [C-3] Medical Officer
+**[C-3] Medical Officer**</br>
 
-### [C-2] Physician
+**[C-2] Physician**</br>
 
-### [C-2] Resident
+**[C-2] Resident**</br>
 
-### [C-1] Nurse
+**[C-1] Nurse**</br>
 
-### [Intern] Medical Student
+**[Intern] Medical Student**</br>

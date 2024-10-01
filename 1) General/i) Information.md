@@ -40,12 +40,58 @@ The Intern rank is obtained by passing the Intern application.
 **Test Subject**</br>
 TS are human subjects used for the Company's experiments. Most of them are former convicts who have volunteered for experimentation in exchange for earning pardon. 
 
-# Primary Research Area - 1
-Commonly referred to by the Company as "Atlas", PRA-1 is the first and largest collection of research facilities constructed by Corvus Technologies on the Volare Archipelago.
+# The Volare Archipelago
+Commonly referred to by the Company as "Atlas", the Volare Archipelago is where Corvus Technologies had constructed the first and largest collection of research facilities.
+
+## Sites
+A "Site" is a general term that refers to 1 of the several islands on the Volare Archipelago.
+
+**Reserve**</br>
+The Reserve is the largest island of the archipelago, and it is exclusively the home of our Non-anomalous Assets, also known as our dinosaurs. 
+
+**Site Alpha**</br>
+Site Alpha is the name collectively given to the island where the Medical Centre and Checkpoint stands, as well as the small island referred to as the "Killzone".
+
+**Site Bravo**</br>
+Site Bravo is the island of the SF Base.
+
+**Site Charlie**</br>
+Site Charlie is where the Research Centre and the Company Offices are. While it is not geographically the central-most island, it could be seen as such since it directly links with most other Sites.
+
+**Site Delta**</br>
+Site Delta consists of the Logistics Depot, Engineering Centre, and Atlas' Dark Fusion Core.
+
+**Site Echo**</br>
+Site Echo is where the Company has built Atrium A and Atrium B to contain larger Assets for R&I research.
+
+**Site Foxtrot**</br>
+Site Foxtrot is the island where our Anomalous Assets with higher Containment and Danger Classes are kept contained.
+
+**Site Golf**</br>
+Site Golf is where the Test Subjects reside, and where they are held within Test Subject Containment
+
+**Site Zulu**</br>
+Site Zulu is an island that is furthest from the main region of Atlas, and there is no bridge that links to it.
 
 ## Directives
-PRA-1's Directives reflect the current status of the Area, and its current operations. There are 2 separate kinds of directives, which are **Area-wide Directives** and **Site-specific Directives**. 
+Atlas' Directives reflect the current status of the archipelago, and its current operations. There are 2 separate kinds of directives, which are **Area-wide Directives** and **Site-specific Directives** Area-wide Directives apply to the archipelago in its entirety, while Site-specific Directives only apply to the specified Sites.
 
 ### Area-wide Directives
+**Directive: Standard**</br>
+This is the default Directive of the archipelago. All operations may be conducted according to standard procedures.
 
+**Directive: Caution**</br>
+There is a possible presence of a threat in the Area. Alternatively, an asset breach or hostile attack is imminent. 
+
+**Directive: Breach**</br>
+An Anomalous Asset has breached containment from the Anomalous Asset Site.
+
+**Directive: Riot**</br>
+Test Subjects have acquired weaponry and have begun to attack Company Employees, and cause general havoc.
+
+**Directive: Raid**</br>
+An Asset has crossed the Checkpoint from the Reserve, or has breached containment from a research pen or atrium.
+
+**Directive: Assault**</br>
+Test Subjects have acquired weaponry and have begun to attack Company Employees, and cause general havoc. SF personnel are authorised to terminate any TS participating in the riot, as well as TS that do not remain within their cells. 
 ### Site-specific Directives

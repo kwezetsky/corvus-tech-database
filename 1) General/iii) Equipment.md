@@ -25,7 +25,7 @@ The `Broom` is used to clean up messes on the ground, allowing one to earn a few
 
 The `Broom` is available for everyone at janitorial closets.
 
-## Research
+## Asset Research
 * **Tranquilliser Rifle**
 * **Tranquilliser Pistol**
 * **Tracking Device**
