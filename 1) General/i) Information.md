@@ -73,25 +73,4 @@ Site Golf is where the Test Subjects reside, and where they are held within Test
 **Site Zulu**</br>
 Site Zulu is an island that is furthest from the main region of Atlas, and there is no bridge that links to it.
 
-## Directives
-Atlas' Directives reflect the current status of the archipelago, and its current operations. There are 2 separate kinds of directives, which are **Area-wide Directives** and **Site-specific Directives** Area-wide Directives apply to the archipelago in its entirety, while Site-specific Directives only apply to the specified Sites.
-
-### Area-wide Directives
-**Directive: Standard**</br>
-This is the default Directive of the archipelago. All operations may be conducted according to standard procedures.
-
-**Directive: Caution**</br>
-There is a possible presence of a threat in the Area. Alternatively, an asset breach or hostile attack is imminent. 
-
-**Directive: Breach**</br>
-An Anomalous Asset has breached containment from the Anomalous Asset Site.
-
-**Directive: Riot**</br>
-Test Subjects have acquired weaponry and have begun to attack Company Employees, and cause general havoc.
-
-**Directive: Raid**</br>
-An Asset has crossed the Checkpoint from the Reserve, or has breached containment from a research pen or atrium.
-
-**Directive: Assault**</br>
-Test Subjects have acquired weaponry and have begun to attack Company Employees, and cause general havoc. SF personnel are authorised to terminate any TS participating in the riot, as well as TS that do not remain within their cells. 
-### Site-specific Directives
+## Area Statuses

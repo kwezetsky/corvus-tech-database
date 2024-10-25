@@ -38,27 +38,40 @@
 
 7) Players may not attempt to exploit loopholes within the regulations. Possible loopholes must be reported to the Founder.
 
-### Section 2: Employees
-> The following section contains regulations that apply to Company employees, meaning individuals ranked "Intern" or above within the main group.
-> Employees in violation of these regulations will be subject to legislative punishment.
 
-1) **Maturity and Professionalism:**
-* a) Employees must display maturity and professionalism whilst conducting their respective duties.
-* b) Employees are not required to utilise grammar in-game unless instructed otherwise by superiors or individual departmental guidelines.
-* c) Employees may not use the radio for unnecessary chatter, and must maintain radio silence when instructed. 
+### Section 2: Employee Rights
+1) **Right 1**
+* Employees have the right to (blank)
 
-2) **Duties:**
-* a) Employees may not abandon their duties nor desert their posts when on respective department teams.
-* b) Employees are only considered off-duty when on the "Corvus Technologies" team.
-* c) Employees may not disrupt nor intrude upon each other's duties.
+2) **Right to Self-Defense**
+* Employees have the right to (blank)
 
-3) **Impersonation:**
-* a) Employees may not impersonate being a member of a department/division that they are not, in actuality, a member of.
-* b) Employees may not assume authority over others when they do not have the right nor authority to do so.
+### Section 3: Employee Code of Conduct
+1) **Maturity**
+* Employees will be subject to punishment if they:
+  * a) Lack maturity whilst conducting their respective duties.
+  * b) Fail to uilise grammar in-game when given the instruction by individual departmental guidelines or by superiors.
+  * c) Utilise the radio for unnecessary chatter
+  * d) Fail to maintain radio silence when instructed. 
 
-4) **Trespassing:**
-* a) Without the proper clearance, employees may not enter any area designated to be restricted to them, unless provided authorisation by individuals who hold the power to provide it.
-* b) Employees that enter a restricted area unintentionally are required to exit the area as soon as possible, and may not remain within it.
+2) **Abandonment**
+* Employees will be subject to punishment if they:
+  * a) Do not conduct their duties while on respective department teams.
+  * b) Desert their assigned posts while on respective department teams.
+
+3) **Disruption**
+* Employees will be subject to punishment if they:
+  * a) Interfere with or intrude upon another employee's duties.
+
+4) **Impersonation**
+* Employees will be subject to punishment if they:
+  * a) Employees may not impersonate being a member of a department/division that they are not, in actuality, a member of.
+  * b) Employees may not assume authority over others when they do not have the right nor authority to do so.
+
+5) **Trespassing**
+* Employees will be subject to punishment if they:
+  * a) Enter any area designated to be restricted to their clearance without authorisation by other employees who can provide the aforementioned authorisation.
+  * b) Remain within restricted areas 
 
 5) **Firearms and Weapons:**
 * a) Non-SF personnel may not freely equip nor utilise firearms/weaponry unless in self-defense against immediate threat from a:
