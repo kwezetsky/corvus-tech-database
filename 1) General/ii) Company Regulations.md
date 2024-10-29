@@ -44,14 +44,18 @@
 * Employees have the right to (blank)
 
 2) **Right to Self-Defense**
-* Employees have the right to (blank)
+* Employees have the right to utilise weaponry to defend themselves against an active threat from a:
+  * i) Test Subject
+  * ii) Hostile combatant
+  * iii) Individual infected by biohazardous anomaly
+  * iv) Aggressive Compsognathus longipes
 
 ### Section 3: Employee Code of Conduct
 1) **Maturity**
 * Employees will be subject to punishment if they:
   * a) Lack maturity whilst conducting their respective duties.
   * b) Fail to uilise grammar in-game when given the instruction by individual departmental guidelines or by superiors.
-  * c) Utilise the radio for unnecessary chatter
+  * c) Utilise the radio for unnecessary chatter.
   * d) Fail to maintain radio silence when instructed. 
 
 2) **Abandonment**
@@ -65,66 +69,80 @@
 
 4) **Impersonation**
 * Employees will be subject to punishment if they:
-  * a) Employees may not impersonate being a member of a department/division that they are not, in actuality, a member of.
-  * b) Employees may not assume authority over others when they do not have the right nor authority to do so.
+  * a) Impersonate being a member of a department/division.
+  * b) Impersonate being a command member.
+  * b) Assume authority over others when they do not have the right nor authority to do so.
 
 5) **Trespassing**
 * Employees will be subject to punishment if they:
   * a) Enter any area designated to be restricted to their clearance without authorisation by other employees who can provide the aforementioned authorisation.
-  * b) Remain within restricted areas 
+  * b) Remain within restricted areas even after receiving warnings to exit.
 
-5) **Firearms and Weapons:**
-* a) Non-SF personnel may not freely equip nor utilise firearms/weaponry unless in self-defense against immediate threat from a:
-  * i) Test Subject
-  * ii) Hostile combatant
-  * iii) Individual infected by biohazardous anomaly
-  * iv) Aggressive Compsognathus longipes
-* b) Employees may not harm one another in any way.
+6) **Brandishing weapons**
+* Employees will be subject to punishment if they:
+  * a) Equip melee weapons or firearms when not practicing self-defense nor being on-duty as a member of SF.
 
-6) **Insubordination:**
-* a) Employees must obey all orders given to them by those above them in the chain of command.
-* b) Employees may refuse to follow through with orders if they violate Company regulations, and must report the ordering individual to those higher in the chain of command along with evidence of the occurence.
+7) **Assault:**
+* Employees will be subject to punishment if they:
+  * a) Intentionally harm another employee.
+  * b) Intentionally harm a TS when not permitted by the TS Termination Criterias.
+  * c) Harm a Prehistoric Asset without valid reasoning.
+  * d) Harm an Anomalous Asset without valid reasoning.
 
-7) **Headgear:**
-* a) Employees may not wear excessively large avatar headgear that drastically enlarges their hitbox and causes visual disruption.
-* b) Employees may not wear avatar headgear that emits sounds nor particles.
+8) **Assassination:**
+* Employees will be subject to punishment if they:
+  * a) Kill another employee.
+  * b) Kill a TS when not permitted by the TS Termination Criterias.
+  * c) Kill a Prehistoric Asset without valid reasoning.
+  * d) Kill an Anomalous Asset without valid reasoning.
 
-8) **Vehicles:**
-* a) Employees may not operate vehicles recklessly.
-* b) All vehicles spawned by employees must be re-deposited into vehicle stations once their usage is finished, lest they be stolen or destroyed by hostile parties.
-* c) Employees may not intentionally destroy vehicles.
-* d) Employees may not hit any other beings with vehicles.
+9) **Insubordination:**
+* Employees will be subject to punishment if they:
+  * a) Fail to obey orders given to them by those above them in the chain of command, unless the aforementioned orders violate Company regulations.
+
+10) **Headgear:**
+* Employees will be subject to punishment if they:
+  * a) Wear large avatar headgear that drastically enlarges their hitbox
+  * b) Wear avatar headgear that causes visual disruption.
+  * b) Wear avatar headgear that emits sounds or particles.
+
+8) **Reckless Vehicle Operation:**
+* Employees will be subject to punishment if they:
+  * a) Drive into objects and obstacles.
+  * b) Run over any other being unless in self-defense.
+  * c) Fail to re-deposit vehicles into their stations, resulting in the vehicle(s) being stolen or destroyed.
+  * d) Intentionally destroy vehicles.
 
 9) **Treachery:**
-* a) TS may not be assisted in any way by company employees, except for TS actively participating in a test.
-* b) Employees may not assist TS in violating any regulation.
-* c) Employees may not assist hostile combatants in any way.
+* Employees will be subject to punishment if they:
+  * a) Assist TS in committing unlawful acts against the Company.
+  * b) Assist hostile combatants.
 
-10) **Departments:**
-* a) Employees may not be in more than 2 departments.
-  * i) AD and AA are exempt from the departmental limit.
+### Section 4: Test Subject Rights
+* **Right 1:**
+  * TS have the right to be anywhere within the confines of Test Subject Containment at any time.
 
-### Section 3: Test Subjects
-> The following section contains regulations that apply to Test Subjects.
-> These regulations are to be enforced by Security Forces personnel.
+* **Right 2:**
+  * TS have the right to refuse selection for testing, provided they have yet to pass the TS Transfer Gate.
 
-1) **Test Subject Rights:**
-* a) TS have the right to be anywhere within the confines of Test Subject Containment at any time.
-* b) TS have the right to refuse selection for testing, provided they have yet to pass the TS Transfer Gate.
-* c) TS have the right to engage in any activity within the confines of TSC that do not violate the TS regulations.
+* **Right 3:**
+  * TS have the right to participate in any activity within the confines of TSC that do not violate the TS regulations.
 
-2) **Tests & Experiments:**
-* a) TS who are 1st-in-queue have priority to be selected for testing.
-* b) During testing, TS are to follow all orders from the test host and SF personnel.
-* c) TS may not make any attempts to escape from the test host nor SF personnel.
-* d) TS may only speak when authorised, or when spoken to, throughout the duration of the test.
+* **Right 4:**
+  * TS have the right of testing priority if they are 1st-in-queue.
 
-3) **Trespassing:**
+### Section 5: Test Subject Termination Criteria
+1) **Trespassing:**
 * a) TS may not enter areas restricted to them without authorisation.
 * b) TS may not cross the red line that separates the TSC main waiting area and TS Transfer Gate if not selected for testing.
 * c) TS may not attempt to escape the confines of TSC.
 
-4) **Contraband:**
+2) **Testing:**
+* b) During testing, TS are to follow all orders from the test host and SF personnel.
+* c) TS may not make any attempts to escape from the test host nor SF personnel.
+* d) TS may only speak when authorised, or when spoken to, throughout the duration of the test.
+
+3) **Contraband:**
 * a) TS may not be in possession of items deemed to be contraband without authorisation.
 * b) TS may not display nor brandish contraband without authorisation.
 * c) TS in possession of contraband are required to surrender the items to SF personnel.
@@ -135,12 +153,12 @@
   * iv) Items that may be used as melee weaponry
   * v) Anomalous items
 
-5) **Violence:**
+4) **Violence:**
 * a) TS may not physically harm fellow TS, Company employees, nor assets.
 * b) TS may not kill nor attempt to kill the aforementioned parties.
 * c) TS may only be authorised to harm or even kill certain assets for testing purposes by R&I Junior Researcher+, and with Senior Researcher+ permission and supervision.
 
-6) **Asset Interaction:**
+5) **Asset Interaction:**
 * a) TS may freely speak to passive/neutral Anomalous Assets that visit/are brought to TSC, unless instructed otherwise.
 * b) TS may freely interact with Compsognathus longipes that find their way into TSC.
 * c) TS are not permitted to insult nor antagonise assets that understand human speech, unless following instructions while participating in a test.
